@@ -1,0 +1,1768 @@
+# Logfile created on Tue May 14 09:34:52 -0300 2013 by logger.rb/22285
+I, [2013-05-14T09:34:59.628736 #23499]  INFO -- : Net::HTTP::Get: /MCO-403991761-coche-peekaboo-2-en-1-incluye-moises-y-silla-paseadora-_JM
+D, [2013-05-14T09:34:59.628853 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:34:59.628906 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:34:59.628972 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:34:59.629026 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:34:59.629074 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:34:59.629121 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:34:59.629169 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:34:59.848668 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:34:59.848850 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:34:59.848941 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:34:59.849032 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:34:59.849099 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:34:59.849164 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:34:59.849229 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:34:59 GMT
+D, [2013-05-14T09:34:59.849294 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:34:59.849358 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:34:59.849444 #23499] DEBUG -- : response-header: x-generation-time => 174
+D, [2013-05-14T09:34:59.849512 #23499] DEBUG -- : response-header: x-server => i-0000016f-r4/127.0.0.1
+D, [2013-05-14T09:34:59.849591 #23499] DEBUG -- : response-header: x-nginx-host => yblhp67
+D, [2013-05-14T09:34:59.849678 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:34:59.849745 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO403991761%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:34:59 GMT; Path=/
+D, [2013-05-14T09:34:59.849812 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:34:59.849883 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:34:59.849978 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:34:59.850240 #23499] DEBUG -- : Read 6648 bytes (6648 total)
+D, [2013-05-14T09:34:59.850441 #23499] DEBUG -- : Read 7240 bytes (13888 total)
+D, [2013-05-14T09:34:59.863027 #23499] DEBUG -- : Read 2176 bytes (16064 total)
+D, [2013-05-14T09:34:59.863408 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:34:59.870587 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO403991761%7C**
+I, [2013-05-14T09:34:59.921774 #23499]  INFO -- : Net::HTTP::Get: /MCO-404450839-mugs-personalizados-publicitarios-_JM
+D, [2013-05-14T09:34:59.921862 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:34:59.921914 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:34:59.921977 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:34:59.922030 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:34:59.922079 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:34:59.922128 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO403991761%7C**
+D, [2013-05-14T09:34:59.922176 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:34:59.922224 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:00.001881 #23499]  INFO -- : status: Net::HTTPMovedPermanently 1.1 301 Moved Permanently
+D, [2013-05-14T09:35:00.002090 #23499] DEBUG -- : response-header: location => http://articulo.mercadolibre.com.co/MCO-405312750-mugs-personalizados-publicitarios-_JM?redirectedFromParent=MCO404450839
+D, [2013-05-14T09:35:00.002168 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:00.002236 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:00.002304 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:00.002371 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:00.002439 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:00 GMT
+D, [2013-05-14T09:35:00.002507 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:00.002574 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.169.125:8080
+D, [2013-05-14T09:35:00.002641 #23499] DEBUG -- : response-header: x-generation-time => 40
+D, [2013-05-14T09:35:00.002708 #23499] DEBUG -- : response-header: x-server => i-0000016f-r4/127.0.0.1
+D, [2013-05-14T09:35:00.002776 #23499] DEBUG -- : response-header: x-nginx-host => yblhp53
+D, [2013-05-14T09:35:00.002843 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:00.002911 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:00.003002 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:00.003073 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:00.003246 #23499] DEBUG -- : Read 20 bytes (20 total)
+D, [2013-05-14T09:35:00.003554 #23499] DEBUG -- : gzip response
+I, [2013-05-14T09:35:00.004031 #23499]  INFO -- : follow redirect to: http://articulo.mercadolibre.com.co/MCO-405312750-mugs-personalizados-publicitarios-_JM?redirectedFromParent=MCO404450839
+I, [2013-05-14T09:35:00.008106 #23499]  INFO -- : Net::HTTP::Get: /MCO-405312750-mugs-personalizados-publicitarios-_JM?redirectedFromParent=MCO404450839
+D, [2013-05-14T09:35:00.008194 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:00.008266 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:00.008335 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:00.008403 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:00.008471 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:00.008538 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO403991761%7C**
+D, [2013-05-14T09:35:00.008606 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:00.008673 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:00.296277 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:00.296450 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:00.296529 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:35:00.296598 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:00.296665 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:00.296733 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:00.296801 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:00 GMT
+D, [2013-05-14T09:35:00.296868 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:00.296935 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.169.125:8080
+D, [2013-05-14T09:35:00.297030 #23499] DEBUG -- : response-header: x-generation-time => 239
+D, [2013-05-14T09:35:00.297128 #23499] DEBUG -- : response-header: x-server => i-000002eb-qsm/127.0.0.1
+D, [2013-05-14T09:35:00.297200 #23499] DEBUG -- : response-header: x-nginx-host => yblhp53
+D, [2013-05-14T09:35:00.297268 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:00.297337 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO405312750%7CIMCO403991761%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:35:00 GMT; Path=/
+D, [2013-05-14T09:35:00.297406 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:00.297474 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:00.297541 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:00.297720 #23499] DEBUG -- : Read 3735 bytes (3735 total)
+D, [2013-05-14T09:35:00.297859 #23499] DEBUG -- : Read 10136 bytes (13871 total)
+D, [2013-05-14T09:35:00.312189 #23499] DEBUG -- : Read 2420 bytes (16291 total)
+D, [2013-05-14T09:35:00.312490 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:00.321314 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO405312750%7CIMCO403991761%7C**
+I, [2013-05-14T09:35:00.330727 #23499]  INFO -- : Net::HTTP::Get: /MCO-404442470-coche-para-bebe-marca-priori-manija-reversible-ref-supra-_JM
+D, [2013-05-14T09:35:00.330821 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:00.330893 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:00.330981 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:00.331054 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:00.331124 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:00.331223 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405312750%7CIMCO403991761%7C**
+D, [2013-05-14T09:35:00.331321 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:00.331396 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:00.551403 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:00.551572 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:00.551646 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:35:00.551714 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:00.551782 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:00.551849 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:00.551916 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:00 GMT
+D, [2013-05-14T09:35:00.552004 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:00.552075 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.169.125:8080
+D, [2013-05-14T09:35:00.552142 #23499] DEBUG -- : response-header: x-generation-time => 174
+D, [2013-05-14T09:35:00.552237 #23499] DEBUG -- : response-header: x-server => i-000002eb-qsm/127.0.0.1
+D, [2013-05-14T09:35:00.552332 #23499] DEBUG -- : response-header: x-nginx-host => yblhp53
+D, [2013-05-14T09:35:00.552406 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:00.552474 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO404442470%7CIMCO405312750%7CIMCO403991761%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:35:00 GMT; Path=/
+D, [2013-05-14T09:35:00.552542 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:00.552609 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:00.552677 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:00.552877 #23499] DEBUG -- : Read 3719 bytes (3719 total)
+D, [2013-05-14T09:35:00.553061 #23499] DEBUG -- : Read 10136 bytes (13855 total)
+D, [2013-05-14T09:35:00.565916 #23499] DEBUG -- : Read 3228 bytes (17083 total)
+D, [2013-05-14T09:35:00.566233 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:00.574664 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO404442470%7CIMCO405312750%7CIMCO403991761%7C**
+I, [2013-05-14T09:35:00.581769 #23499]  INFO -- : Net::HTTP::Get: /MCO-402177302-wasabi-xbox-360-_JM
+D, [2013-05-14T09:35:00.581856 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:00.581908 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:00.581969 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:00.582021 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:00.582070 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:00.582119 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO404442470%7CIMCO405312750%7CIMCO403991761%7C**
+D, [2013-05-14T09:35:00.582168 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:00.582215 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:00.836765 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:00.836860 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:00.836912 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:35:00.836975 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:00.837028 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:00.837076 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:00.837124 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:00 GMT
+D, [2013-05-14T09:35:00.837171 #23499] DEBUG -- : response-header: server => nginx/1.0.14
+D, [2013-05-14T09:35:00.837219 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.169.125:8080
+D, [2013-05-14T09:35:00.837266 #23499] DEBUG -- : response-header: x-generation-time => 171
+D, [2013-05-14T09:35:00.837314 #23499] DEBUG -- : response-header: x-server => i-000003d0-ksm/127.0.0.1
+D, [2013-05-14T09:35:00.837362 #23499] DEBUG -- : response-header: x-nginx-host => zblhp22
+D, [2013-05-14T09:35:00.837410 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:00.837458 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO402177302%7CIMCO404442470%7CIMCO405312750%7CIMCO403991761%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:35:00 GMT; Path=/
+D, [2013-05-14T09:35:00.837507 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:00.837554 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:00.837602 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:00.837718 #23499] DEBUG -- : Read 3702 bytes (3702 total)
+D, [2013-05-14T09:35:00.837816 #23499] DEBUG -- : Read 10136 bytes (13838 total)
+D, [2013-05-14T09:35:00.871262 #23499] DEBUG -- : Read 1663 bytes (15501 total)
+D, [2013-05-14T09:35:00.871466 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:00.876883 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO402177302%7CIMCO404442470%7CIMCO405312750%7CIMCO403991761%7C**
+I, [2013-05-14T09:35:00.883283 #23499]  INFO -- : Net::HTTP::Get: /MCO-404430356-virgen-de-guadalupe-manto-90cm-x-60cm-mexico-_JM
+D, [2013-05-14T09:35:00.883347 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:00.883398 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:00.883447 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:00.883511 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:00.883562 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:00.883610 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO402177302%7CIMCO404442470%7CIMCO405312750%7CIMCO403991761%7C**
+D, [2013-05-14T09:35:00.883658 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:00.883706 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:01.193448 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:01.193562 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:01.193614 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:35:01.193664 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:01.193727 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:01.193777 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:01.193825 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:01 GMT
+D, [2013-05-14T09:35:01.193873 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:01.193920 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.169.125:8080
+D, [2013-05-14T09:35:01.193983 #23499] DEBUG -- : response-header: x-generation-time => 219
+D, [2013-05-14T09:35:01.194034 #23499] DEBUG -- : response-header: x-server => i-0000016b-r4/127.0.0.1
+D, [2013-05-14T09:35:01.194082 #23499] DEBUG -- : response-header: x-nginx-host => yblhp67
+D, [2013-05-14T09:35:01.194130 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:01.194178 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO404430356%7CIMCO402177302%7CIMCO404442470%7CIMCO405312750%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:35:01 GMT; Path=/
+D, [2013-05-14T09:35:01.194227 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:01.194275 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:01.194322 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:01.194441 #23499] DEBUG -- : Read 5152 bytes (5152 total)
+D, [2013-05-14T09:35:01.194536 #23499] DEBUG -- : Read 8688 bytes (13840 total)
+D, [2013-05-14T09:35:01.229664 #23499] DEBUG -- : Read 1836 bytes (15676 total)
+D, [2013-05-14T09:35:01.230097 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:01.238134 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO404430356%7CIMCO402177302%7CIMCO404442470%7CIMCO405312750%7C**
+I, [2013-05-14T09:35:01.247634 #23499]  INFO -- : Net::HTTP::Get: /MCO-403616049-b-tall-suba-5-cm-de-estatura-en-segundos-plantillas-zapatos-_JM
+D, [2013-05-14T09:35:01.247740 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:01.247812 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:01.247881 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:01.247966 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:01.248040 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:01.248109 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO404430356%7CIMCO402177302%7CIMCO404442470%7CIMCO405312750%7C**
+D, [2013-05-14T09:35:01.248178 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:01.248246 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:01.370939 #23499]  INFO -- : status: Net::HTTPMovedPermanently 1.1 301 Moved Permanently
+D, [2013-05-14T09:35:01.371151 #23499] DEBUG -- : response-header: location => http://articulo.mercadolibre.com.co/MCO-405265485-b-tall-suba-5-cm-de-estatura-en-segundos-plantillas-zapatos-_JM?redirectedFromParent=MCO403616049
+D, [2013-05-14T09:35:01.371250 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:01.371321 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:01.371389 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:01.371456 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:01.371523 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:01 GMT
+D, [2013-05-14T09:35:01.371590 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:01.371657 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.169.125:8080
+D, [2013-05-14T09:35:01.371733 #23499] DEBUG -- : response-header: x-generation-time => 44
+D, [2013-05-14T09:35:01.371814 #23499] DEBUG -- : response-header: x-server => i-0000016b-r4/127.0.0.1
+D, [2013-05-14T09:35:01.371882 #23499] DEBUG -- : response-header: x-nginx-host => yblhp53
+D, [2013-05-14T09:35:01.371970 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:01.372070 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:01.372141 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:01.372207 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:01.372393 #23499] DEBUG -- : Read 20 bytes (20 total)
+D, [2013-05-14T09:35:01.372686 #23499] DEBUG -- : gzip response
+I, [2013-05-14T09:35:01.373155 #23499]  INFO -- : follow redirect to: http://articulo.mercadolibre.com.co/MCO-405265485-b-tall-suba-5-cm-de-estatura-en-segundos-plantillas-zapatos-_JM?redirectedFromParent=MCO403616049
+I, [2013-05-14T09:35:01.377294 #23499]  INFO -- : Net::HTTP::Get: /MCO-405265485-b-tall-suba-5-cm-de-estatura-en-segundos-plantillas-zapatos-_JM?redirectedFromParent=MCO403616049
+D, [2013-05-14T09:35:01.377385 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:01.377472 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:01.377562 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:01.377633 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:01.377717 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:01.377788 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO404430356%7CIMCO402177302%7CIMCO404442470%7CIMCO405312750%7C**
+D, [2013-05-14T09:35:01.377873 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:01.377945 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:01.673917 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:01.674111 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:01.674185 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:35:01.674253 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:01.674320 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:01.674388 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:01.674455 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:01 GMT
+D, [2013-05-14T09:35:01.674522 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:01.674588 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:35:01.674656 #23499] DEBUG -- : response-header: x-generation-time => 211
+D, [2013-05-14T09:35:01.674722 #23499] DEBUG -- : response-header: x-server => i-00000159-r1/127.0.0.1
+D, [2013-05-14T09:35:01.674816 #23499] DEBUG -- : response-header: x-nginx-host => yblhp67
+D, [2013-05-14T09:35:01.674886 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:01.674980 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO405265485%7CIMCO404430356%7CIMCO402177302%7CIMCO404442470%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:35:01 GMT; Path=/
+D, [2013-05-14T09:35:01.675054 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:01.675122 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:01.675189 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:01.675359 #23499] DEBUG -- : Read 3704 bytes (3704 total)
+D, [2013-05-14T09:35:01.700043 #23499] DEBUG -- : Read 10136 bytes (13840 total)
+D, [2013-05-14T09:35:01.707284 #23499] DEBUG -- : Read 3420 bytes (17260 total)
+D, [2013-05-14T09:35:01.707623 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:01.716818 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO405265485%7CIMCO404430356%7CIMCO402177302%7CIMCO404442470%7C**
+I, [2013-05-14T09:35:01.726032 #23499]  INFO -- : Net::HTTP::Get: /MCO-404416536-leche-s-26-promild-gold-y-progress-2-de-900-gr-_JM
+D, [2013-05-14T09:35:01.726130 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:01.726201 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:01.726269 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:01.726338 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:01.726404 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:01.726476 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405265485%7CIMCO404430356%7CIMCO402177302%7CIMCO404442470%7C**
+D, [2013-05-14T09:35:01.726546 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:01.726614 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:01.809498 #23499]  INFO -- : status: Net::HTTPMovedPermanently 1.1 301 Moved Permanently
+D, [2013-05-14T09:35:01.809647 #23499] DEBUG -- : response-header: location => http://articulo.mercadolibre.com.co/MCO-405281068-leche-s-26-promild-gold-y-progress-2-de-900-gr-_JM?redirectedFromParent=MCO404416536
+D, [2013-05-14T09:35:01.809747 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:01.809820 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:01.809888 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:01.809991 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:01.810067 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:01 GMT
+D, [2013-05-14T09:35:01.810136 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:01.810204 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.169.125:8080
+D, [2013-05-14T09:35:01.810284 #23499] DEBUG -- : response-header: x-generation-time => 43
+D, [2013-05-14T09:35:01.810354 #23499] DEBUG -- : response-header: x-server => i-0000016f-r4/127.0.0.1
+D, [2013-05-14T09:35:01.810421 #23499] DEBUG -- : response-header: x-nginx-host => yblhp53
+D, [2013-05-14T09:35:01.810489 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:01.810561 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:01.810636 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:01.810722 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:01.810905 #23499] DEBUG -- : Read 20 bytes (20 total)
+D, [2013-05-14T09:35:01.811266 #23499] DEBUG -- : gzip response
+I, [2013-05-14T09:35:01.811743 #23499]  INFO -- : follow redirect to: http://articulo.mercadolibre.com.co/MCO-405281068-leche-s-26-promild-gold-y-progress-2-de-900-gr-_JM?redirectedFromParent=MCO404416536
+I, [2013-05-14T09:35:01.816231 #23499]  INFO -- : Net::HTTP::Get: /MCO-405281068-leche-s-26-promild-gold-y-progress-2-de-900-gr-_JM?redirectedFromParent=MCO404416536
+D, [2013-05-14T09:35:01.816325 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:01.816396 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:01.816469 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:01.816540 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:01.816608 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:01.816676 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405265485%7CIMCO404430356%7CIMCO402177302%7CIMCO404442470%7C**
+D, [2013-05-14T09:35:01.816745 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:01.816814 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:02.122062 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:02.122232 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:02.122307 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:35:02.122375 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:02.122444 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:02.122512 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:02.122580 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:02 GMT
+D, [2013-05-14T09:35:02.122647 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:02.122715 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:35:02.122782 #23499] DEBUG -- : response-header: x-generation-time => 218
+D, [2013-05-14T09:35:02.122849 #23499] DEBUG -- : response-header: x-server => i-0000016b-r4/127.0.0.1
+D, [2013-05-14T09:35:02.122916 #23499] DEBUG -- : response-header: x-nginx-host => yblhp53
+D, [2013-05-14T09:35:02.123007 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:02.123079 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO405281068%7CIMCO405265485%7CIMCO404430356%7CIMCO402177302%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:35:01 GMT; Path=/
+D, [2013-05-14T09:35:02.123147 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:02.123214 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:02.123280 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:02.123452 #23499] DEBUG -- : Read 2256 bytes (2256 total)
+D, [2013-05-14T09:35:02.123589 #23499] DEBUG -- : Read 11584 bytes (13840 total)
+D, [2013-05-14T09:35:02.156249 #23499] DEBUG -- : Read 2545 bytes (16385 total)
+D, [2013-05-14T09:35:02.156576 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:02.164781 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO405281068%7CIMCO405265485%7CIMCO404430356%7CIMCO402177302%7C**
+I, [2013-05-14T09:35:02.173233 #23499]  INFO -- : Net::HTTP::Get: /MCO-404405452-sombrilla-paraguas-romero-britto-marca-rain-_JM
+D, [2013-05-14T09:35:02.173325 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:02.173398 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:02.173466 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:02.173535 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:02.173627 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:02.173698 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405281068%7CIMCO405265485%7CIMCO404430356%7CIMCO402177302%7C**
+D, [2013-05-14T09:35:02.173767 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:02.173836 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:02.298324 #23499]  INFO -- : status: Net::HTTPMovedPermanently 1.1 301 Moved Permanently
+D, [2013-05-14T09:35:02.298465 #23499] DEBUG -- : response-header: location => http://articulo.mercadolibre.com.co/MCO-405236767-sombrilla-paraguas-romero-britto-marca-rain-_JM?redirectedFromParent=MCO404405452
+D, [2013-05-14T09:35:02.298539 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:02.298608 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:02.298676 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:02.298742 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:02.298808 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:02 GMT
+D, [2013-05-14T09:35:02.298875 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:02.298941 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:35:02.299033 #23499] DEBUG -- : response-header: x-generation-time => 45
+D, [2013-05-14T09:35:02.299101 #23499] DEBUG -- : response-header: x-server => i-000003d0-ksm/127.0.0.1
+D, [2013-05-14T09:35:02.299168 #23499] DEBUG -- : response-header: x-nginx-host => yblhp53
+D, [2013-05-14T09:35:02.299234 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:02.299300 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:02.299367 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:02.299433 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:02.299595 #23499] DEBUG -- : Read 20 bytes (20 total)
+D, [2013-05-14T09:35:02.299874 #23499] DEBUG -- : gzip response
+I, [2013-05-14T09:35:02.300318 #23499]  INFO -- : follow redirect to: http://articulo.mercadolibre.com.co/MCO-405236767-sombrilla-paraguas-romero-britto-marca-rain-_JM?redirectedFromParent=MCO404405452
+I, [2013-05-14T09:35:02.304323 #23499]  INFO -- : Net::HTTP::Get: /MCO-405236767-sombrilla-paraguas-romero-britto-marca-rain-_JM?redirectedFromParent=MCO404405452
+D, [2013-05-14T09:35:02.304411 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:02.304482 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:02.304550 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:02.304618 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:02.304685 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:02.304751 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405281068%7CIMCO405265485%7CIMCO404430356%7CIMCO402177302%7C**
+D, [2013-05-14T09:35:02.304819 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:02.304886 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:02.542687 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:02.542862 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:02.542935 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:35:02.543025 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:02.543095 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:02.543188 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:02.543258 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:02 GMT
+D, [2013-05-14T09:35:02.543325 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:02.543393 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:35:02.543459 #23499] DEBUG -- : response-header: x-generation-time => 193
+D, [2013-05-14T09:35:02.543526 #23499] DEBUG -- : response-header: x-server => i-0000016f-r4/127.0.0.1
+D, [2013-05-14T09:35:02.543592 #23499] DEBUG -- : response-header: x-nginx-host => yblhp53
+D, [2013-05-14T09:35:02.543659 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:02.543726 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO405236767%7CIMCO405281068%7CIMCO405265485%7CIMCO404430356%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:35:02 GMT; Path=/
+D, [2013-05-14T09:35:02.543793 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:02.543860 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:02.543927 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:02.544120 #23499] DEBUG -- : Read 8048 bytes (8048 total)
+D, [2013-05-14T09:35:02.544242 #23499] DEBUG -- : Read 5792 bytes (13840 total)
+D, [2013-05-14T09:35:02.557110 #23499] DEBUG -- : Read 3973 bytes (17813 total)
+D, [2013-05-14T09:35:02.557461 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:02.566974 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO405236767%7CIMCO405281068%7CIMCO405265485%7CIMCO404430356%7C**
+I, [2013-05-14T09:35:02.576419 #23499]  INFO -- : Net::HTTP::Get: /MCO-404397070-panales-de-tela-charlie-banana-the-fashion-collection--_JM
+D, [2013-05-14T09:35:02.576596 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:02.576680 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:02.576731 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:02.576780 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:02.576829 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:02.576877 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405236767%7CIMCO405281068%7CIMCO405265485%7CIMCO404430356%7C**
+D, [2013-05-14T09:35:02.576944 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:02.577014 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:02.829619 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:02.829797 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:02.829870 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:35:02.829938 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:02.830030 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:02.830098 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:02.830165 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:02 GMT
+D, [2013-05-14T09:35:02.830231 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:02.830297 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:35:02.830363 #23499] DEBUG -- : response-header: x-generation-time => 167
+D, [2013-05-14T09:35:02.830428 #23499] DEBUG -- : response-header: x-server => i-000002eb-qsm/127.0.0.1
+D, [2013-05-14T09:35:02.830494 #23499] DEBUG -- : response-header: x-nginx-host => yblhp67
+D, [2013-05-14T09:35:02.830560 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:02.830651 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO404397070%7CIMCO405236767%7CIMCO405281068%7CIMCO405265485%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:35:02 GMT; Path=/
+D, [2013-05-14T09:35:02.830722 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:02.830789 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:02.830855 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:02.831046 #23499] DEBUG -- : Read 3703 bytes (3703 total)
+D, [2013-05-14T09:35:02.831187 #23499] DEBUG -- : Read 10136 bytes (13839 total)
+D, [2013-05-14T09:35:02.864047 #23499] DEBUG -- : Read 7956 bytes (21795 total)
+D, [2013-05-14T09:35:02.864446 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:02.873201 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO404397070%7CIMCO405236767%7CIMCO405281068%7CIMCO405265485%7C**
+I, [2013-05-14T09:35:02.879448 #23499]  INFO -- : Net::HTTP::Get: /MCO-404392304-hermoso-cojin-para-amamantar-a-tu-bebe-anti-reflujo-nuevo-_JM
+D, [2013-05-14T09:35:02.879514 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:02.879566 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:02.879614 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:02.879662 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:02.879710 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:02.879758 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO404397070%7CIMCO405236767%7CIMCO405281068%7CIMCO405265485%7C**
+D, [2013-05-14T09:35:02.879807 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:02.879855 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:03.107641 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:03.107796 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:03.107863 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:35:03.107914 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:03.107978 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:03.108029 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:03.108078 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:03 GMT
+D, [2013-05-14T09:35:03.108125 #23499] DEBUG -- : response-header: server => nginx/1.0.14
+D, [2013-05-14T09:35:03.108172 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:35:03.108219 #23499] DEBUG -- : response-header: x-generation-time => 186
+D, [2013-05-14T09:35:03.108266 #23499] DEBUG -- : response-header: x-server => e-00001648/127.0.0.1
+D, [2013-05-14T09:35:03.108314 #23499] DEBUG -- : response-header: x-nginx-host => zblhp22
+D, [2013-05-14T09:35:03.108361 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:03.108409 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO404392304%7CIMCO404397070%7CIMCO405236767%7CIMCO405281068%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:35:03 GMT; Path=/
+D, [2013-05-14T09:35:03.108457 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:03.108504 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:03.108550 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:03.108666 #23499] DEBUG -- : Read 3706 bytes (3706 total)
+D, [2013-05-14T09:35:03.108766 #23499] DEBUG -- : Read 10136 bytes (13842 total)
+D, [2013-05-14T09:35:03.121849 #23499] DEBUG -- : Read 3193 bytes (17035 total)
+D, [2013-05-14T09:35:03.122083 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:03.144004 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO404392304%7CIMCO404397070%7CIMCO405236767%7CIMCO405281068%7C**
+I, [2013-05-14T09:35:03.150927 #23499]  INFO -- : Net::HTTP::Get: /MCO-404382626-picadura-chicamocha-_JM
+D, [2013-05-14T09:35:03.151004 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:03.151057 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:03.151106 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:03.151155 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:03.151203 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:03.151251 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO404392304%7CIMCO404397070%7CIMCO405236767%7CIMCO405281068%7C**
+D, [2013-05-14T09:35:03.151299 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:03.151347 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:03.269596 #23499]  INFO -- : status: Net::HTTPMovedPermanently 1.1 301 Moved Permanently
+D, [2013-05-14T09:35:03.269660 #23499] DEBUG -- : response-header: location => http://articulo.mercadolibre.com.co/MCO-405229023-picadura-chicamocha-_JM?redirectedFromParent=MCO404382626
+D, [2013-05-14T09:35:03.269711 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:03.269760 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:03.269807 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:03.269854 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:03.269901 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:03 GMT
+D, [2013-05-14T09:35:03.269961 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:03.270014 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.169.125:8080
+D, [2013-05-14T09:35:03.270062 #23499] DEBUG -- : response-header: x-generation-time => 43
+D, [2013-05-14T09:35:03.270109 #23499] DEBUG -- : response-header: x-server => i-000002eb-qsm/127.0.0.1
+D, [2013-05-14T09:35:03.270157 #23499] DEBUG -- : response-header: x-nginx-host => yblhp67
+D, [2013-05-14T09:35:03.270204 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:03.270251 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:03.270297 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:03.270344 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:03.270446 #23499] DEBUG -- : Read 20 bytes (20 total)
+D, [2013-05-14T09:35:03.270627 #23499] DEBUG -- : gzip response
+I, [2013-05-14T09:35:03.270867 #23499]  INFO -- : follow redirect to: http://articulo.mercadolibre.com.co/MCO-405229023-picadura-chicamocha-_JM?redirectedFromParent=MCO404382626
+I, [2013-05-14T09:35:03.273441 #23499]  INFO -- : Net::HTTP::Get: /MCO-405229023-picadura-chicamocha-_JM?redirectedFromParent=MCO404382626
+D, [2013-05-14T09:35:03.273504 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:03.273554 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:03.273602 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:03.273650 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:03.273698 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:03.273745 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO404392304%7CIMCO404397070%7CIMCO405236767%7CIMCO405281068%7C**
+D, [2013-05-14T09:35:03.273817 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:03.273867 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:03.543071 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:03.543156 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:03.543209 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:35:03.543258 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:03.543306 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:03.543353 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:03.543401 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:03 GMT
+D, [2013-05-14T09:35:03.543449 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:03.543496 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.169.125:8080
+D, [2013-05-14T09:35:03.543543 #23499] DEBUG -- : response-header: x-generation-time => 181
+D, [2013-05-14T09:35:03.543590 #23499] DEBUG -- : response-header: x-server => i-0000016f-r4/127.0.0.1
+D, [2013-05-14T09:35:03.543637 #23499] DEBUG -- : response-header: x-nginx-host => yblhp53
+D, [2013-05-14T09:35:03.543685 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:03.543732 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO405229023%7CIMCO404392304%7CIMCO404397070%7CIMCO405236767%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:35:03 GMT; Path=/
+D, [2013-05-14T09:35:03.543780 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:03.543828 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:03.543875 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:03.543995 #23499] DEBUG -- : Read 3704 bytes (3704 total)
+D, [2013-05-14T09:35:03.544094 #23499] DEBUG -- : Read 10136 bytes (13840 total)
+D, [2013-05-14T09:35:03.557638 #23499] DEBUG -- : Read 2253 bytes (16093 total)
+D, [2013-05-14T09:35:03.557834 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:03.563414 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO405229023%7CIMCO404392304%7CIMCO404397070%7CIMCO405236767%7C**
+I, [2013-05-14T09:35:03.567991 #23499]  INFO -- : Net::HTTP::Get: /MLM-414110795-camara-ip-inalambrica-h264-soporta-microsd-32gb-_JM
+D, [2013-05-14T09:35:03.568055 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:03.568106 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:03.568154 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:03.568203 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:03.568252 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:03.568300 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.mx
+D, [2013-05-14T09:35:03.568347 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:03.727903 #23499]  INFO -- : status: Net::HTTPMovedPermanently 1.1 301 Moved Permanently
+D, [2013-05-14T09:35:03.728026 #23499] DEBUG -- : response-header: location => http://articulo.mercadolibre.com.mx/MLM-422031142-camara-ip-inalambrica-h264-soporta-microsd-32gb-_JM?redirectedFromParent=MLM414110795
+D, [2013-05-14T09:35:03.728444 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:03.728510 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:03.728561 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:03.728610 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mlmcore-pool
+D, [2013-05-14T09:35:03.728677 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:03 GMT
+D, [2013-05-14T09:35:03.728745 #23499] DEBUG -- : response-header: server => nginx/1.0.14
+D, [2013-05-14T09:35:03.728796 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.154.144:8080
+D, [2013-05-14T09:35:03.728845 #23499] DEBUG -- : response-header: x-generation-time => 86
+D, [2013-05-14T09:35:03.728892 #23499] DEBUG -- : response-header: x-server => e-000014d3/127.0.0.1
+D, [2013-05-14T09:35:03.728968 #23499] DEBUG -- : response-header: x-nginx-host => zblhp22
+D, [2013-05-14T09:35:03.729024 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:03.729080 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:03.729138 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:03.729187 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:03.729291 #23499] DEBUG -- : Read 20 bytes (20 total)
+D, [2013-05-14T09:35:03.729495 #23499] DEBUG -- : gzip response
+I, [2013-05-14T09:35:03.729767 #23499]  INFO -- : follow redirect to: http://articulo.mercadolibre.com.mx/MLM-422031142-camara-ip-inalambrica-h264-soporta-microsd-32gb-_JM?redirectedFromParent=MLM414110795
+I, [2013-05-14T09:35:03.731301 #23499]  INFO -- : Net::HTTP::Get: /MLM-422031142-camara-ip-inalambrica-h264-soporta-microsd-32gb-_JM?redirectedFromParent=MLM414110795
+D, [2013-05-14T09:35:03.731363 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:03.731413 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:03.731461 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:03.731510 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:03.731558 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:03.731606 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.mx
+D, [2013-05-14T09:35:03.731653 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:04.074089 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:04.074201 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:04.074253 #23499] DEBUG -- : response-header: content-language => es-MX
+D, [2013-05-14T09:35:04.074301 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:04.074349 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:04.074397 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mlmcore-pool
+D, [2013-05-14T09:35:04.074445 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:04 GMT
+D, [2013-05-14T09:35:04.074493 #23499] DEBUG -- : response-header: server => nginx/1.0.14
+D, [2013-05-14T09:35:04.074540 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.154.144:8080
+D, [2013-05-14T09:35:04.074588 #23499] DEBUG -- : response-header: x-generation-time => 258
+D, [2013-05-14T09:35:04.074636 #23499] DEBUG -- : response-header: x-server => i-00000057-r5/127.0.0.1
+D, [2013-05-14T09:35:04.074683 #23499] DEBUG -- : response-header: x-nginx-host => zblhp22
+D, [2013-05-14T09:35:04.074731 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:04.074779 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMLM422031142%7C**; Domain=.mercadolibre.com.mx; Expires=Thu, 13-Jun-2013 12:35:03 GMT; Path=/
+D, [2013-05-14T09:35:04.074827 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:04.074874 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:04.074921 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:04.075056 #23499] DEBUG -- : Read 5211 bytes (5211 total)
+D, [2013-05-14T09:35:04.075170 #23499] DEBUG -- : Read 8688 bytes (13899 total)
+D, [2013-05-14T09:35:04.107838 #23499] DEBUG -- : Read 4344 bytes (18243 total)
+D, [2013-05-14T09:35:04.107940 #23499] DEBUG -- : Read 3880 bytes (22123 total)
+D, [2013-05-14T09:35:04.108155 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:04.117097 #23499] DEBUG -- : saved cookie: pmsctx=******IMLM422031142%7C**
+I, [2013-05-14T09:35:04.128018 #23499]  INFO -- : Net::HTTP::Get: /MCO-404342558-gimnasio-piscina-tortuga-banera-intex-con-techo-ninos-_JM
+D, [2013-05-14T09:35:04.128083 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:04.128134 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:04.128182 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:04.128231 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:04.128279 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:04.128326 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405229023%7CIMCO404392304%7CIMCO404397070%7CIMCO405236767%7C**
+D, [2013-05-14T09:35:04.128374 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:04.128421 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:04.214737 #23499]  INFO -- : status: Net::HTTPMovedPermanently 1.1 301 Moved Permanently
+D, [2013-05-14T09:35:04.214801 #23499] DEBUG -- : response-header: location => http://articulo.mercadolibre.com.co/MCO-405194197-gimnasio-piscina-tortuga-banera-intex-con-techo-ninos-_JM?redirectedFromParent=MCO404342558
+D, [2013-05-14T09:35:04.214853 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:04.214901 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:04.214965 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:04.215018 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:04.215066 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:04 GMT
+D, [2013-05-14T09:35:04.215113 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:04.215160 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:35:04.215207 #23499] DEBUG -- : response-header: x-generation-time => 43
+D, [2013-05-14T09:35:04.215254 #23499] DEBUG -- : response-header: x-server => i-00000159-r1/127.0.0.1
+D, [2013-05-14T09:35:04.215301 #23499] DEBUG -- : response-header: x-nginx-host => yblhp53
+D, [2013-05-14T09:35:04.215348 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:04.215395 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:04.215441 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:04.215489 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:04.215585 #23499] DEBUG -- : Read 20 bytes (20 total)
+D, [2013-05-14T09:35:04.215758 #23499] DEBUG -- : gzip response
+I, [2013-05-14T09:35:04.216025 #23499]  INFO -- : follow redirect to: http://articulo.mercadolibre.com.co/MCO-405194197-gimnasio-piscina-tortuga-banera-intex-con-techo-ninos-_JM?redirectedFromParent=MCO404342558
+I, [2013-05-14T09:35:04.220762 #23499]  INFO -- : Net::HTTP::Get: /MCO-405194197-gimnasio-piscina-tortuga-banera-intex-con-techo-ninos-_JM?redirectedFromParent=MCO404342558
+D, [2013-05-14T09:35:04.220826 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:04.220876 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:04.220924 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:04.221001 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:04.221054 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:04.221102 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405229023%7CIMCO404392304%7CIMCO404397070%7CIMCO405236767%7C**
+D, [2013-05-14T09:35:04.221150 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:04.221197 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:04.510740 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:04.510830 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:04.510881 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:35:04.510929 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:04.511000 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:04.511051 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:04.511100 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:04 GMT
+D, [2013-05-14T09:35:04.511147 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:04.511195 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:35:04.511241 #23499] DEBUG -- : response-header: x-generation-time => 200
+D, [2013-05-14T09:35:04.511289 #23499] DEBUG -- : response-header: x-server => i-00000159-r1/127.0.0.1
+D, [2013-05-14T09:35:04.511335 #23499] DEBUG -- : response-header: x-nginx-host => yblhp53
+D, [2013-05-14T09:35:04.511382 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:04.511429 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO405194197%7CIMCO405229023%7CIMCO404392304%7CIMCO404397070%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:35:04 GMT; Path=/
+D, [2013-05-14T09:35:04.511477 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:04.511525 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:04.511572 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:04.511680 #23499] DEBUG -- : Read 3704 bytes (3704 total)
+D, [2013-05-14T09:35:04.511775 #23499] DEBUG -- : Read 8688 bytes (12392 total)
+D, [2013-05-14T09:35:04.547313 #23499] DEBUG -- : Read 4695 bytes (17087 total)
+D, [2013-05-14T09:35:04.547509 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:04.553636 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO405194197%7CIMCO405229023%7CIMCO404392304%7CIMCO404397070%7C**
+I, [2013-05-14T09:35:04.576808 #23499]  INFO -- : Net::HTTP::Get: /MCO-404339084-coche-reversible-bebesit-_JM
+D, [2013-05-14T09:35:04.576890 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:04.576941 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:04.577006 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:04.577056 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:04.577104 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:04.577156 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405194197%7CIMCO405229023%7CIMCO404392304%7CIMCO404397070%7C**
+D, [2013-05-14T09:35:04.577205 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:04.577253 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:04.816722 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:04.816832 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:04.816885 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:35:04.816964 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:04.817020 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:04.817069 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:04.817117 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:04 GMT
+D, [2013-05-14T09:35:04.817165 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:04.817213 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:35:04.817261 #23499] DEBUG -- : response-header: x-generation-time => 192
+D, [2013-05-14T09:35:04.817309 #23499] DEBUG -- : response-header: x-server => i-00000159-r1/127.0.0.1
+D, [2013-05-14T09:35:04.817357 #23499] DEBUG -- : response-header: x-nginx-host => yblhp53
+D, [2013-05-14T09:35:04.817405 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:04.817453 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO404339084%7CIMCO405194197%7CIMCO405229023%7CIMCO404392304%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:35:04 GMT; Path=/
+D, [2013-05-14T09:35:04.817502 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:04.817551 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:04.817598 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:04.817715 #23499] DEBUG -- : Read 3704 bytes (3704 total)
+D, [2013-05-14T09:35:04.817816 #23499] DEBUG -- : Read 10136 bytes (13840 total)
+D, [2013-05-14T09:35:04.831317 #23499] DEBUG -- : Read 2504 bytes (16344 total)
+D, [2013-05-14T09:35:04.831583 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:04.837574 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO404339084%7CIMCO405194197%7CIMCO405229023%7CIMCO404392304%7C**
+I, [2013-05-14T09:35:04.845825 #23499]  INFO -- : Net::HTTP::Get: /MCO-404191810-ps3-250gb-1-control-2-juegos-wifi-_JM
+D, [2013-05-14T09:35:04.845891 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:04.845942 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:04.846008 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:04.846058 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:04.846106 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:04.846154 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO404339084%7CIMCO405194197%7CIMCO405229023%7CIMCO404392304%7C**
+D, [2013-05-14T09:35:04.846202 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:04.846249 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:05.099646 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:05.099757 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:05.099810 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:35:05.099858 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:05.099905 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:05.099968 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:05.100020 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:05 GMT
+D, [2013-05-14T09:35:05.100069 #23499] DEBUG -- : response-header: server => nginx/1.0.14
+D, [2013-05-14T09:35:05.100116 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:35:05.100163 #23499] DEBUG -- : response-header: x-generation-time => 207
+D, [2013-05-14T09:35:05.100210 #23499] DEBUG -- : response-header: x-server => i-0000016b-r4/127.0.0.1
+D, [2013-05-14T09:35:05.100274 #23499] DEBUG -- : response-header: x-nginx-host => zblhp22
+D, [2013-05-14T09:35:05.100324 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:05.100372 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO404191810%7CIMCO404339084%7CIMCO405194197%7CIMCO405229023%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:35:04 GMT; Path=/
+D, [2013-05-14T09:35:05.100420 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:05.100467 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:05.100515 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:05.100630 #23499] DEBUG -- : Read 3703 bytes (3703 total)
+D, [2013-05-14T09:35:05.100729 #23499] DEBUG -- : Read 10136 bytes (13839 total)
+D, [2013-05-14T09:35:05.114283 #23499] DEBUG -- : Read 2856 bytes (16695 total)
+D, [2013-05-14T09:35:05.114492 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:05.120519 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO404191810%7CIMCO404339084%7CIMCO405194197%7CIMCO405229023%7C**
+I, [2013-05-14T09:35:05.128677 #23499]  INFO -- : Net::HTTP::Get: /MCO-404326265-televisor-samsung-led-tv-40-un40eh5300m-smart-tv-wifi-hdmi-_JM
+D, [2013-05-14T09:35:05.128741 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:05.128792 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:05.128841 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:05.128889 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:05.128936 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:05.129003 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO404191810%7CIMCO404339084%7CIMCO405194197%7CIMCO405229023%7C**
+D, [2013-05-14T09:35:05.129053 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:05.129101 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:05.229164 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:05.229230 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:05.229281 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:35:05.229330 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:05.229377 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:05.229425 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:05.229472 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:05 GMT
+D, [2013-05-14T09:35:05.229519 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:05.229566 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:35:05.229612 #23499] DEBUG -- : response-header: x-generation-time => 63
+D, [2013-05-14T09:35:05.229660 #23499] DEBUG -- : response-header: x-server => i-0000016f-r4/127.0.0.1
+D, [2013-05-14T09:35:05.229707 #23499] DEBUG -- : response-header: x-nginx-host => yblhp67
+D, [2013-05-14T09:35:05.229754 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:05.229801 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO404326265%7CIMCO404191810%7CIMCO404339084%7CIMCO405194197%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:35:05 GMT; Path=/
+D, [2013-05-14T09:35:05.229849 #23499] DEBUG -- : response-header: cache-control => public, max-age=900
+D, [2013-05-14T09:35:05.229895 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:05.229943 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:05.230067 #23499] DEBUG -- : Read 2279 bytes (2279 total)
+D, [2013-05-14T09:35:05.230244 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:05.231768 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO404326265%7CIMCO404191810%7CIMCO404339084%7CIMCO405194197%7C**
+I, [2013-05-14T09:35:05.237138 #23499]  INFO -- : Net::HTTP::Get: /MCO-404328539-silla-columpio-mecedor-vibrador-fisher-price-2-en-1-_JM
+D, [2013-05-14T09:35:05.237202 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:05.237252 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:05.237301 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:05.237349 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:05.237397 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:05.237444 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO404326265%7CIMCO404191810%7CIMCO404339084%7CIMCO405194197%7C**
+D, [2013-05-14T09:35:05.237492 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:05.237539 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:05.595648 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:05.595793 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:05.595848 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:35:05.595896 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:05.595944 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:05.596011 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:05.596060 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:05 GMT
+D, [2013-05-14T09:35:05.596107 #23499] DEBUG -- : response-header: server => nginx/1.0.14
+D, [2013-05-14T09:35:05.596154 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:35:05.596201 #23499] DEBUG -- : response-header: x-generation-time => 275
+D, [2013-05-14T09:35:05.596247 #23499] DEBUG -- : response-header: x-server => i-000003d0-ksm/127.0.0.1
+D, [2013-05-14T09:35:05.596294 #23499] DEBUG -- : response-header: x-nginx-host => zblhp22
+D, [2013-05-14T09:35:05.596340 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:05.596388 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO404328539%7CIMCO404326265%7CIMCO404191810%7CIMCO404339084%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:35:05 GMT; Path=/
+D, [2013-05-14T09:35:05.596435 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:05.596485 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:05.596532 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:05.596649 #23499] DEBUG -- : Read 3702 bytes (3702 total)
+D, [2013-05-14T09:35:05.596745 #23499] DEBUG -- : Read 10136 bytes (13838 total)
+D, [2013-05-14T09:35:05.629242 #23499] DEBUG -- : Read 2260 bytes (16098 total)
+D, [2013-05-14T09:35:05.629448 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:05.635041 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO404328539%7CIMCO404326265%7CIMCO404191810%7CIMCO404339084%7C**
+I, [2013-05-14T09:35:05.642664 #23499]  INFO -- : Net::HTTP::Get: /MCO-404298520-silla-porta-bebe-coche-teknum-_JM
+D, [2013-05-14T09:35:05.642726 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:05.642777 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:05.642825 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:05.642890 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:05.642940 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:05.643006 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO404328539%7CIMCO404326265%7CIMCO404191810%7CIMCO404339084%7C**
+D, [2013-05-14T09:35:05.643055 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:05.643103 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:05.717375 #23499]  INFO -- : status: Net::HTTPMovedPermanently 1.1 301 Moved Permanently
+D, [2013-05-14T09:35:05.717440 #23499] DEBUG -- : response-header: location => http://articulo.mercadolibre.com.co/MCO-405186473-silla-porta-bebe-coche-teknum-_JM?redirectedFromParent=MCO404298520
+D, [2013-05-14T09:35:05.717492 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:05.717540 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:05.717587 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:05.717634 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:05.717681 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:05 GMT
+D, [2013-05-14T09:35:05.717728 #23499] DEBUG -- : response-header: server => nginx/1.0.14
+D, [2013-05-14T09:35:05.717775 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:35:05.717821 #23499] DEBUG -- : response-header: x-generation-time => 37
+D, [2013-05-14T09:35:05.717868 #23499] DEBUG -- : response-header: x-server => i-000002eb-qsm/127.0.0.1
+D, [2013-05-14T09:35:05.717915 #23499] DEBUG -- : response-header: x-nginx-host => zblhp22
+D, [2013-05-14T09:35:05.717975 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:05.718027 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:05.718075 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:05.718122 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:05.718215 #23499] DEBUG -- : Read 20 bytes (20 total)
+D, [2013-05-14T09:35:05.718388 #23499] DEBUG -- : gzip response
+I, [2013-05-14T09:35:05.718632 #23499]  INFO -- : follow redirect to: http://articulo.mercadolibre.com.co/MCO-405186473-silla-porta-bebe-coche-teknum-_JM?redirectedFromParent=MCO404298520
+I, [2013-05-14T09:35:05.723209 #23499]  INFO -- : Net::HTTP::Get: /MCO-405186473-silla-porta-bebe-coche-teknum-_JM?redirectedFromParent=MCO404298520
+D, [2013-05-14T09:35:05.723272 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:05.723323 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:05.723371 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:05.723419 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:05.723466 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:05.723513 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO404328539%7CIMCO404326265%7CIMCO404191810%7CIMCO404339084%7C**
+D, [2013-05-14T09:35:05.723561 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:05.723608 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:06.002112 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:06.002232 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:06.002285 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:35:06.002333 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:06.002381 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:06.002442 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:06.002492 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:06 GMT
+D, [2013-05-14T09:35:06.002539 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:06.002587 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.169.125:8080
+D, [2013-05-14T09:35:06.002634 #23499] DEBUG -- : response-header: x-generation-time => 196
+D, [2013-05-14T09:35:06.002681 #23499] DEBUG -- : response-header: x-server => i-000003d0-ksm/127.0.0.1
+D, [2013-05-14T09:35:06.002728 #23499] DEBUG -- : response-header: x-nginx-host => yblhp53
+D, [2013-05-14T09:35:06.002775 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:06.002822 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO405186473%7CIMCO404328539%7CIMCO404326265%7CIMCO404191810%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:35:05 GMT; Path=/
+D, [2013-05-14T09:35:06.002870 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:06.002917 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:06.002978 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:06.003083 #23499] DEBUG -- : Read 3703 bytes (3703 total)
+D, [2013-05-14T09:35:06.003177 #23499] DEBUG -- : Read 10136 bytes (13839 total)
+D, [2013-05-14T09:35:06.035759 #23499] DEBUG -- : Read 2073 bytes (15912 total)
+D, [2013-05-14T09:35:06.035981 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:06.041530 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO405186473%7CIMCO404328539%7CIMCO404326265%7CIMCO404191810%7C**
+I, [2013-05-14T09:35:06.049190 #23499]  INFO -- : Net::HTTP::Get: /MCO-403810083-fisher-price-mesita-modelo-laughlearn-ingles-espanol-aya12-_JM
+D, [2013-05-14T09:35:06.049254 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:06.049304 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:06.049353 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:06.049402 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:06.049450 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:06.049497 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405186473%7CIMCO404328539%7CIMCO404326265%7CIMCO404191810%7C**
+D, [2013-05-14T09:35:06.049545 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:06.049593 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:06.127501 #23499]  INFO -- : status: Net::HTTPMovedPermanently 1.1 301 Moved Permanently
+D, [2013-05-14T09:35:06.127565 #23499] DEBUG -- : response-header: location => http://articulo.mercadolibre.com.co/MCO-405242471-fisher-price-mesita-modelo-laughlearn-ingles-espanol-aya12-_JM?redirectedFromParent=MCO403810083
+D, [2013-05-14T09:35:06.127616 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:06.127664 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:06.127711 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:06.127758 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:06.127804 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:06 GMT
+D, [2013-05-14T09:35:06.127851 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:06.127898 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:35:06.127945 #23499] DEBUG -- : response-header: x-generation-time => 40
+D, [2013-05-14T09:35:06.128014 #23499] DEBUG -- : response-header: x-server => i-0000016f-r4/127.0.0.1
+D, [2013-05-14T09:35:06.128078 #23499] DEBUG -- : response-header: x-nginx-host => yblhp67
+D, [2013-05-14T09:35:06.128127 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:06.128175 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:06.128221 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:06.128285 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:06.128399 #23499] DEBUG -- : Read 20 bytes (20 total)
+D, [2013-05-14T09:35:06.128575 #23499] DEBUG -- : gzip response
+I, [2013-05-14T09:35:06.128833 #23499]  INFO -- : follow redirect to: http://articulo.mercadolibre.com.co/MCO-405242471-fisher-price-mesita-modelo-laughlearn-ingles-espanol-aya12-_JM?redirectedFromParent=MCO403810083
+I, [2013-05-14T09:35:06.133408 #23499]  INFO -- : Net::HTTP::Get: /MCO-405242471-fisher-price-mesita-modelo-laughlearn-ingles-espanol-aya12-_JM?redirectedFromParent=MCO403810083
+D, [2013-05-14T09:35:06.133471 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:06.133521 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:06.133569 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:06.133617 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:06.133665 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:06.133712 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405186473%7CIMCO404328539%7CIMCO404326265%7CIMCO404191810%7C**
+D, [2013-05-14T09:35:06.133760 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:06.133807 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:06.453262 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:06.453437 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:06.453506 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:35:06.453557 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:06.453607 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:06.453655 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:06.453704 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:06 GMT
+D, [2013-05-14T09:35:06.453752 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:06.453799 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.169.125:8080
+D, [2013-05-14T09:35:06.453847 #23499] DEBUG -- : response-header: x-generation-time => 219
+D, [2013-05-14T09:35:06.453895 #23499] DEBUG -- : response-header: x-server => i-000003d0-ksm/127.0.0.1
+D, [2013-05-14T09:35:06.453944 #23499] DEBUG -- : response-header: x-nginx-host => yblhp53
+D, [2013-05-14T09:35:06.454015 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:06.454066 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO405242471%7CIMCO405186473%7CIMCO404328539%7CIMCO404326265%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:35:06 GMT; Path=/
+D, [2013-05-14T09:35:06.454114 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:06.454162 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:06.454211 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:06.454327 #23499] DEBUG -- : Read 3703 bytes (3703 total)
+D, [2013-05-14T09:35:06.454424 #23499] DEBUG -- : Read 10136 bytes (13839 total)
+D, [2013-05-14T09:35:06.487766 #23499] DEBUG -- : Read 2284 bytes (16123 total)
+D, [2013-05-14T09:35:06.487997 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:06.493835 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO405242471%7CIMCO405186473%7CIMCO404328539%7CIMCO404326265%7C**
+I, [2013-05-14T09:35:06.501870 #23499]  INFO -- : Net::HTTP::Get: /MCO-404312506-microscopio-binocular-profesional-scientific-con-camara-usb-_JM
+D, [2013-05-14T09:35:06.501934 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:06.502002 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:06.502053 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:06.502102 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:06.502150 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:06.502198 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405242471%7CIMCO405186473%7CIMCO404328539%7CIMCO404326265%7C**
+D, [2013-05-14T09:35:06.502246 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:06.502295 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:06.622926 #23499]  INFO -- : status: Net::HTTPMovedPermanently 1.1 301 Moved Permanently
+D, [2013-05-14T09:35:06.623006 #23499] DEBUG -- : response-header: location => http://articulo.mercadolibre.com.co/MCO-405146826-microscopio-binocular-profesional-scientific-con-camara-usb-_JM?redirectedFromParent=MCO404312506
+D, [2013-05-14T09:35:06.623059 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:06.623108 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:06.623156 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:06.623204 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:06.623251 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:06 GMT
+D, [2013-05-14T09:35:06.623298 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:06.623345 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:35:06.623393 #23499] DEBUG -- : response-header: x-generation-time => 39
+D, [2013-05-14T09:35:06.623440 #23499] DEBUG -- : response-header: x-server => e-00001648/127.0.0.1
+D, [2013-05-14T09:35:06.623487 #23499] DEBUG -- : response-header: x-nginx-host => yblhp53
+D, [2013-05-14T09:35:06.623535 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:06.623582 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:06.623629 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:06.623676 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:06.623769 #23499] DEBUG -- : Read 20 bytes (20 total)
+D, [2013-05-14T09:35:06.623943 #23499] DEBUG -- : gzip response
+I, [2013-05-14T09:35:06.624208 #23499]  INFO -- : follow redirect to: http://articulo.mercadolibre.com.co/MCO-405146826-microscopio-binocular-profesional-scientific-con-camara-usb-_JM?redirectedFromParent=MCO404312506
+I, [2013-05-14T09:35:06.628890 #23499]  INFO -- : Net::HTTP::Get: /MCO-405146826-microscopio-binocular-profesional-scientific-con-camara-usb-_JM?redirectedFromParent=MCO404312506
+D, [2013-05-14T09:35:06.628966 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:06.629020 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:06.629069 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:06.629117 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:06.629164 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:06.629211 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405242471%7CIMCO405186473%7CIMCO404328539%7CIMCO404326265%7C**
+D, [2013-05-14T09:35:06.629271 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:06.629321 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:06.869335 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:06.869497 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:06.869569 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:35:06.869637 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:06.869704 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:06.869770 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:06.869837 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:06 GMT
+D, [2013-05-14T09:35:06.869903 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:06.869988 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:35:06.870060 #23499] DEBUG -- : response-header: x-generation-time => 191
+D, [2013-05-14T09:35:06.870127 #23499] DEBUG -- : response-header: x-server => i-0000016b-r4/127.0.0.1
+D, [2013-05-14T09:35:06.870194 #23499] DEBUG -- : response-header: x-nginx-host => yblhp53
+D, [2013-05-14T09:35:06.870260 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:06.870327 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO405146826%7CIMCO405242471%7CIMCO405186473%7CIMCO404328539%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:35:06 GMT; Path=/
+D, [2013-05-14T09:35:06.870396 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:06.870462 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:06.870528 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:06.870694 #23499] DEBUG -- : Read 3704 bytes (3704 total)
+D, [2013-05-14T09:35:06.870825 #23499] DEBUG -- : Read 10136 bytes (13840 total)
+D, [2013-05-14T09:35:06.883793 #23499] DEBUG -- : Read 3082 bytes (16922 total)
+D, [2013-05-14T09:35:06.884105 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:06.893407 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO405146826%7CIMCO405242471%7CIMCO405186473%7CIMCO404328539%7C**
+I, [2013-05-14T09:35:06.905440 #23499]  INFO -- : Net::HTTP::Get: /MCO-404312270-colchon-colchoneta-antireflujo-para-bebes-_JM
+D, [2013-05-14T09:35:06.905531 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:06.905615 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:06.905686 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:06.905753 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:06.905821 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:06.905889 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405146826%7CIMCO405242471%7CIMCO405186473%7CIMCO404328539%7C**
+D, [2013-05-14T09:35:06.905972 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:06.906044 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:07.020941 #23499]  INFO -- : status: Net::HTTPMovedPermanently 1.1 301 Moved Permanently
+D, [2013-05-14T09:35:07.021079 #23499] DEBUG -- : response-header: location => http://articulo.mercadolibre.com.co/MCO-405130520-colchon-colchoneta-antireflujo-para-bebes-_JM?redirectedFromParent=MCO404312270
+D, [2013-05-14T09:35:07.021133 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:07.021181 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:07.021246 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:07.021296 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:07.021343 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:07 GMT
+D, [2013-05-14T09:35:07.021391 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:07.021438 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:35:07.021484 #23499] DEBUG -- : response-header: x-generation-time => 37
+D, [2013-05-14T09:35:07.021539 #23499] DEBUG -- : response-header: x-server => i-000002eb-qsm/127.0.0.1
+D, [2013-05-14T09:35:07.021586 #23499] DEBUG -- : response-header: x-nginx-host => yblhp67
+D, [2013-05-14T09:35:07.021633 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:07.021679 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:07.021726 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:07.021774 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:07.021894 #23499] DEBUG -- : Read 20 bytes (20 total)
+D, [2013-05-14T09:35:07.022112 #23499] DEBUG -- : gzip response
+I, [2013-05-14T09:35:07.022409 #23499]  INFO -- : follow redirect to: http://articulo.mercadolibre.com.co/MCO-405130520-colchon-colchoneta-antireflujo-para-bebes-_JM?redirectedFromParent=MCO404312270
+I, [2013-05-14T09:35:07.028068 #23499]  INFO -- : Net::HTTP::Get: /MCO-405130520-colchon-colchoneta-antireflujo-para-bebes-_JM?redirectedFromParent=MCO404312270
+D, [2013-05-14T09:35:07.028137 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:07.028195 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:07.028244 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:07.028293 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:07.028340 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:07.028387 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405146826%7CIMCO405242471%7CIMCO405186473%7CIMCO404328539%7C**
+D, [2013-05-14T09:35:07.028434 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:07.028481 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:07.287481 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:07.287655 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:07.287728 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:35:07.287795 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:07.287862 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:07.287928 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:07.288017 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:07 GMT
+D, [2013-05-14T09:35:07.288086 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:07.288152 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.169.125:8080
+D, [2013-05-14T09:35:07.288219 #23499] DEBUG -- : response-header: x-generation-time => 208
+D, [2013-05-14T09:35:07.288284 #23499] DEBUG -- : response-header: x-server => i-0000016b-r4/127.0.0.1
+D, [2013-05-14T09:35:07.288350 #23499] DEBUG -- : response-header: x-nginx-host => yblhp67
+D, [2013-05-14T09:35:07.288415 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:07.288483 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO405130520%7CIMCO405146826%7CIMCO405242471%7CIMCO405186473%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:35:07 GMT; Path=/
+D, [2013-05-14T09:35:07.288576 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:07.288645 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:07.288711 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:07.288881 #23499] DEBUG -- : Read 3704 bytes (3704 total)
+D, [2013-05-14T09:35:07.289034 #23499] DEBUG -- : Read 10136 bytes (13840 total)
+D, [2013-05-14T09:35:07.303388 #23499] DEBUG -- : Read 4630 bytes (18470 total)
+D, [2013-05-14T09:35:07.303688 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:07.315536 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO405130520%7CIMCO405146826%7CIMCO405242471%7CIMCO405186473%7C**
+I, [2013-05-14T09:35:07.330323 #23499]  INFO -- : Net::HTTP::Get: /MCO-404311917-gimnasio-de-juego-para-ninas-_JM
+D, [2013-05-14T09:35:07.330412 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:07.330482 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:07.330549 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:07.330616 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:07.330683 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:07.330749 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405130520%7CIMCO405146826%7CIMCO405242471%7CIMCO405186473%7C**
+D, [2013-05-14T09:35:07.330816 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:07.330883 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:07.556057 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:07.556234 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:07.556302 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:35:07.556352 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:07.556476 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:07.556538 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:07.556587 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:07 GMT
+D, [2013-05-14T09:35:07.556634 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:07.556681 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.169.125:8080
+D, [2013-05-14T09:35:07.556728 #23499] DEBUG -- : response-header: x-generation-time => 172
+D, [2013-05-14T09:35:07.556775 #23499] DEBUG -- : response-header: x-server => i-000002eb-qsm/127.0.0.1
+D, [2013-05-14T09:35:07.556822 #23499] DEBUG -- : response-header: x-nginx-host => yblhp53
+D, [2013-05-14T09:35:07.556869 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:07.556915 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO404311917%7CIMCO405130520%7CIMCO405146826%7CIMCO405242471%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:35:07 GMT; Path=/
+D, [2013-05-14T09:35:07.556979 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:07.557031 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:07.557078 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:07.557193 #23499] DEBUG -- : Read 807 bytes (807 total)
+D, [2013-05-14T09:35:07.557313 #23499] DEBUG -- : Read 13032 bytes (13839 total)
+D, [2013-05-14T09:35:07.572220 #23499] DEBUG -- : Read 261 bytes (14100 total)
+D, [2013-05-14T09:35:07.572424 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:07.577229 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO404311917%7CIMCO405130520%7CIMCO405146826%7CIMCO405242471%7C**
+I, [2013-05-14T09:35:07.584675 #23499]  INFO -- : Net::HTTP::Get: /MCO-404308536-banera-tina-para-bebe-acuario-con-soporte-_JM
+D, [2013-05-14T09:35:07.584788 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:07.584859 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:07.584927 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:07.585015 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:07.585085 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:07.585152 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO404311917%7CIMCO405130520%7CIMCO405146826%7CIMCO405242471%7C**
+D, [2013-05-14T09:35:07.585220 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:07.585287 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:07.706886 #23499]  INFO -- : status: Net::HTTPMovedPermanently 1.1 301 Moved Permanently
+D, [2013-05-14T09:35:07.707004 #23499] DEBUG -- : response-header: location => http://articulo.mercadolibre.com.co/MCO-405139177-banera-tina-para-bebe-acuario-con-soporte-_JM?redirectedFromParent=MCO404308536
+D, [2013-05-14T09:35:07.707080 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:07.707148 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:07.707215 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:07.707281 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:07.707347 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:07 GMT
+D, [2013-05-14T09:35:07.707412 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:07.707477 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:35:07.707542 #23499] DEBUG -- : response-header: x-generation-time => 46
+D, [2013-05-14T09:35:07.707608 #23499] DEBUG -- : response-header: x-server => i-0000016f-r4/127.0.0.1
+D, [2013-05-14T09:35:07.707673 #23499] DEBUG -- : response-header: x-nginx-host => yblhp67
+D, [2013-05-14T09:35:07.707748 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:07.707815 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:07.707881 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:07.707947 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:07.708112 #23499] DEBUG -- : Read 20 bytes (20 total)
+D, [2013-05-14T09:35:07.708365 #23499] DEBUG -- : gzip response
+I, [2013-05-14T09:35:07.708745 #23499]  INFO -- : follow redirect to: http://articulo.mercadolibre.com.co/MCO-405139177-banera-tina-para-bebe-acuario-con-soporte-_JM?redirectedFromParent=MCO404308536
+I, [2013-05-14T09:35:07.739909 #23499]  INFO -- : Net::HTTP::Get: /MCO-405139177-banera-tina-para-bebe-acuario-con-soporte-_JM?redirectedFromParent=MCO404308536
+D, [2013-05-14T09:35:07.740053 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:07.740125 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:07.740193 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:07.740260 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:07.740326 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:07.740393 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO404311917%7CIMCO405130520%7CIMCO405146826%7CIMCO405242471%7C**
+D, [2013-05-14T09:35:07.740459 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:07.740548 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:07.986463 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:07.986640 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:07.986715 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:35:07.986784 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:07.986852 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:07.986920 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:07.987013 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:08 GMT
+D, [2013-05-14T09:35:07.987083 #23499] DEBUG -- : response-header: server => nginx/1.0.14
+D, [2013-05-14T09:35:07.987151 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:35:07.987218 #23499] DEBUG -- : response-header: x-generation-time => 197
+D, [2013-05-14T09:35:07.987287 #23499] DEBUG -- : response-header: x-server => i-000003d0-ksm/127.0.0.1
+D, [2013-05-14T09:35:07.987355 #23499] DEBUG -- : response-header: x-nginx-host => zblhp22
+D, [2013-05-14T09:35:07.987423 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:07.987491 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO405139177%7CIMCO404311917%7CIMCO405130520%7CIMCO405146826%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:35:07 GMT; Path=/
+D, [2013-05-14T09:35:07.987559 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:07.987627 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:07.987694 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:07.987868 #23499] DEBUG -- : Read 3702 bytes (3702 total)
+D, [2013-05-14T09:35:07.988025 #23499] DEBUG -- : Read 10136 bytes (13838 total)
+D, [2013-05-14T09:35:08.000826 #23499] DEBUG -- : Read 5745 bytes (19583 total)
+D, [2013-05-14T09:35:08.001163 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:08.011589 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO405139177%7CIMCO404311917%7CIMCO405130520%7CIMCO405146826%7C**
+I, [2013-05-14T09:35:08.023901 #23499]  INFO -- : Net::HTTP::Get: /MCO-404305923-bolsas-recolectoras-de-leche-materna-_JM
+D, [2013-05-14T09:35:08.023997 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:08.024052 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:08.024100 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:08.024150 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:08.024198 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:08.024246 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405139177%7CIMCO404311917%7CIMCO405130520%7CIMCO405146826%7C**
+D, [2013-05-14T09:35:08.024294 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:08.024342 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:08.116853 #23499]  INFO -- : status: Net::HTTPMovedPermanently 1.1 301 Moved Permanently
+D, [2013-05-14T09:35:08.116987 #23499] DEBUG -- : response-header: location => http://articulo.mercadolibre.com.co/MCO-405147053-bolsas-recolectoras-de-leche-materna-_JM?redirectedFromParent=MCO404305923
+D, [2013-05-14T09:35:08.117044 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:08.117093 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:08.117141 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:08.117207 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:08.117278 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:08 GMT
+D, [2013-05-14T09:35:08.117328 #23499] DEBUG -- : response-header: server => nginx/1.0.14
+D, [2013-05-14T09:35:08.117376 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.169.125:8080
+D, [2013-05-14T09:35:08.117439 #23499] DEBUG -- : response-header: x-generation-time => 50
+D, [2013-05-14T09:35:08.117490 #23499] DEBUG -- : response-header: x-server => i-0000016b-r4/127.0.0.1
+D, [2013-05-14T09:35:08.117538 #23499] DEBUG -- : response-header: x-nginx-host => zblhp22
+D, [2013-05-14T09:35:08.117585 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:08.117633 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:08.117681 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:08.117728 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:08.117842 #23499] DEBUG -- : Read 20 bytes (20 total)
+D, [2013-05-14T09:35:08.118058 #23499] DEBUG -- : gzip response
+I, [2013-05-14T09:35:08.118352 #23499]  INFO -- : follow redirect to: http://articulo.mercadolibre.com.co/MCO-405147053-bolsas-recolectoras-de-leche-materna-_JM?redirectedFromParent=MCO404305923
+I, [2013-05-14T09:35:08.123129 #23499]  INFO -- : Net::HTTP::Get: /MCO-405147053-bolsas-recolectoras-de-leche-materna-_JM?redirectedFromParent=MCO404305923
+D, [2013-05-14T09:35:08.123193 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:08.123243 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:08.123291 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:08.123339 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:08.123387 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:08.123436 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405139177%7CIMCO404311917%7CIMCO405130520%7CIMCO405146826%7C**
+D, [2013-05-14T09:35:08.123485 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:08.123532 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:08.394374 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:08.394524 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:08.394597 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:35:08.394665 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:08.394732 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:08.394798 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:08.394864 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:08 GMT
+D, [2013-05-14T09:35:08.394930 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:08.395018 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.169.125:8080
+D, [2013-05-14T09:35:08.395087 #23499] DEBUG -- : response-header: x-generation-time => 187
+D, [2013-05-14T09:35:08.395154 #23499] DEBUG -- : response-header: x-server => i-000003d0-ksm/127.0.0.1
+D, [2013-05-14T09:35:08.395220 #23499] DEBUG -- : response-header: x-nginx-host => yblhp53
+D, [2013-05-14T09:35:08.395286 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:08.395353 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO405147053%7CIMCO405139177%7CIMCO404311917%7CIMCO405130520%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:35:08 GMT; Path=/
+D, [2013-05-14T09:35:08.395420 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:08.395487 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:08.395578 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:08.395744 #23499] DEBUG -- : Read 3703 bytes (3703 total)
+D, [2013-05-14T09:35:08.395878 #23499] DEBUG -- : Read 10136 bytes (13839 total)
+D, [2013-05-14T09:35:08.427986 #23499] DEBUG -- : Read 18010 bytes (31849 total)
+D, [2013-05-14T09:35:08.428275 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:08.440228 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO405147053%7CIMCO405139177%7CIMCO404311917%7CIMCO405130520%7C**
+I, [2013-05-14T09:35:08.453797 #23499]  INFO -- : Net::HTTP::Get: /MCO-404305342-virgen-de-guadalupe-manto-90cm-x-60cm-_JM
+D, [2013-05-14T09:35:08.453887 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:08.453978 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:08.454050 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:08.454118 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:08.454184 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:08.454250 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405147053%7CIMCO405139177%7CIMCO404311917%7CIMCO405130520%7C**
+D, [2013-05-14T09:35:08.454318 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:08.454384 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:08.759106 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:08.759266 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:08.759640 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:35:08.759726 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:08.759778 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:08.759826 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:08.759874 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:08 GMT
+D, [2013-05-14T09:35:08.759921 #23499] DEBUG -- : response-header: server => nginx/1.0.14
+D, [2013-05-14T09:35:08.759987 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.169.125:8080
+D, [2013-05-14T09:35:08.760039 #23499] DEBUG -- : response-header: x-generation-time => 221
+D, [2013-05-14T09:35:08.760087 #23499] DEBUG -- : response-header: x-server => i-000003d0-ksm/127.0.0.1
+D, [2013-05-14T09:35:08.760135 #23499] DEBUG -- : response-header: x-nginx-host => zblhp22
+D, [2013-05-14T09:35:08.760182 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:08.760230 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO404305342%7CIMCO405147053%7CIMCO405139177%7CIMCO404311917%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:35:08 GMT; Path=/
+D, [2013-05-14T09:35:08.760278 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:08.760325 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:08.760372 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:08.760491 #23499] DEBUG -- : Read 2254 bytes (2254 total)
+D, [2013-05-14T09:35:08.760592 #23499] DEBUG -- : Read 11584 bytes (13838 total)
+D, [2013-05-14T09:35:08.793327 #23499] DEBUG -- : Read 1796 bytes (15634 total)
+D, [2013-05-14T09:35:08.793641 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:08.801801 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO404305342%7CIMCO405147053%7CIMCO405139177%7CIMCO404311917%7C**
+I, [2013-05-14T09:35:08.812744 #23499]  INFO -- : Net::HTTP::Get: /MCO-404304331-papel-para-sublimacion-a4-print-rite-original-_JM
+D, [2013-05-14T09:35:08.812851 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:08.812982 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:08.813082 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:08.813155 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:08.813223 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:08.813291 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO404305342%7CIMCO405147053%7CIMCO405139177%7CIMCO404311917%7C**
+D, [2013-05-14T09:35:08.813359 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:08.813426 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:08.940509 #23499]  INFO -- : status: Net::HTTPMovedPermanently 1.1 301 Moved Permanently
+D, [2013-05-14T09:35:08.940595 #23499] DEBUG -- : response-header: location => http://articulo.mercadolibre.com.co/MCO-405208619-papel-para-sublimacion-a4-print-rite-original-_JM?redirectedFromParent=MCO404304331
+D, [2013-05-14T09:35:08.940648 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:08.940697 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:08.940744 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:08.940790 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:08.940837 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:09 GMT
+D, [2013-05-14T09:35:08.940884 #23499] DEBUG -- : response-header: server => nginx/1.0.14
+D, [2013-05-14T09:35:08.940931 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:35:08.941003 #23499] DEBUG -- : response-header: x-generation-time => 51
+D, [2013-05-14T09:35:08.941056 #23499] DEBUG -- : response-header: x-server => i-00000159-r1/127.0.0.1
+D, [2013-05-14T09:35:08.941104 #23499] DEBUG -- : response-header: x-nginx-host => zblhp22
+D, [2013-05-14T09:35:08.941152 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:08.941199 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:08.941245 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:08.941292 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:08.941401 #23499] DEBUG -- : Read 20 bytes (20 total)
+D, [2013-05-14T09:35:08.941597 #23499] DEBUG -- : gzip response
+I, [2013-05-14T09:35:08.941884 #23499]  INFO -- : follow redirect to: http://articulo.mercadolibre.com.co/MCO-405208619-papel-para-sublimacion-a4-print-rite-original-_JM?redirectedFromParent=MCO404304331
+I, [2013-05-14T09:35:08.948089 #23499]  INFO -- : Net::HTTP::Get: /MCO-405208619-papel-para-sublimacion-a4-print-rite-original-_JM?redirectedFromParent=MCO404304331
+D, [2013-05-14T09:35:08.948162 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:08.948219 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:08.948267 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:08.948316 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:08.948363 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:08.948411 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO404305342%7CIMCO405147053%7CIMCO405139177%7CIMCO404311917%7C**
+D, [2013-05-14T09:35:08.948458 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:08.948506 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:09.248719 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:09.248917 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:09.249020 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:35:09.249090 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:09.249157 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:09.249225 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:09.249291 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:09 GMT
+D, [2013-05-14T09:35:09.249357 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:09.249423 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.169.125:8080
+D, [2013-05-14T09:35:09.249490 #23499] DEBUG -- : response-header: x-generation-time => 218
+D, [2013-05-14T09:35:09.249555 #23499] DEBUG -- : response-header: x-server => i-000003d0-ksm/127.0.0.1
+D, [2013-05-14T09:35:09.249621 #23499] DEBUG -- : response-header: x-nginx-host => yblhp67
+D, [2013-05-14T09:35:09.249687 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:09.249754 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO405208619%7CIMCO404305342%7CIMCO405147053%7CIMCO405139177%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:35:09 GMT; Path=/
+D, [2013-05-14T09:35:09.249821 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:09.249887 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:09.249974 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:09.250149 #23499] DEBUG -- : Read 8047 bytes (8047 total)
+D, [2013-05-14T09:35:09.250289 #23499] DEBUG -- : Read 5792 bytes (13839 total)
+D, [2013-05-14T09:35:09.282109 #23499] DEBUG -- : Read 3008 bytes (16847 total)
+D, [2013-05-14T09:35:09.282442 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:09.291602 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO405208619%7CIMCO404305342%7CIMCO405147053%7CIMCO405139177%7C**
+I, [2013-05-14T09:35:09.318647 #23499]  INFO -- : Net::HTTP::Get: /MCO-404303802-tarjetas-de-presentacion-metalicas-sublimacion-_JM
+D, [2013-05-14T09:35:09.318732 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:09.318782 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:09.318831 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:09.318880 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:09.318927 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:09.318990 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405208619%7CIMCO404305342%7CIMCO405147053%7CIMCO405139177%7C**
+D, [2013-05-14T09:35:09.319041 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:09.319090 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:09.434104 #23499]  INFO -- : status: Net::HTTPMovedPermanently 1.1 301 Moved Permanently
+D, [2013-05-14T09:35:09.434267 #23499] DEBUG -- : response-header: location => http://articulo.mercadolibre.com.co/MCO-405209574-tarjetas-de-presentacion-metalicas-sublimacion-_JM?redirectedFromParent=MCO404303802
+D, [2013-05-14T09:35:09.434344 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:09.434411 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:09.434478 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:09.434545 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:09.434612 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:09 GMT
+D, [2013-05-14T09:35:09.434704 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:09.434774 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.169.125:8080
+D, [2013-05-14T09:35:09.434840 #23499] DEBUG -- : response-header: x-generation-time => 39
+D, [2013-05-14T09:35:09.434907 #23499] DEBUG -- : response-header: x-server => i-0000016b-r4/127.0.0.1
+D, [2013-05-14T09:35:09.434993 #23499] DEBUG -- : response-header: x-nginx-host => yblhp67
+D, [2013-05-14T09:35:09.435064 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:09.435132 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:09.435198 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:09.435264 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:09.435432 #23499] DEBUG -- : Read 20 bytes (20 total)
+D, [2013-05-14T09:35:09.435733 #23499] DEBUG -- : gzip response
+I, [2013-05-14T09:35:09.436188 #23499]  INFO -- : follow redirect to: http://articulo.mercadolibre.com.co/MCO-405209574-tarjetas-de-presentacion-metalicas-sublimacion-_JM?redirectedFromParent=MCO404303802
+I, [2013-05-14T09:35:09.443184 #23499]  INFO -- : Net::HTTP::Get: /MCO-405209574-tarjetas-de-presentacion-metalicas-sublimacion-_JM?redirectedFromParent=MCO404303802
+D, [2013-05-14T09:35:09.443273 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:09.443343 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:09.443410 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:09.443478 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:09.443544 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:09.443610 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405208619%7CIMCO404305342%7CIMCO405147053%7CIMCO405139177%7C**
+D, [2013-05-14T09:35:09.443677 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:09.443744 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:09.676218 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:09.676359 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:09.676412 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:35:09.676464 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:09.676513 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:09.676560 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:09.676608 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:09 GMT
+D, [2013-05-14T09:35:09.676659 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:09.676721 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:35:09.676772 #23499] DEBUG -- : response-header: x-generation-time => 177
+D, [2013-05-14T09:35:09.676819 #23499] DEBUG -- : response-header: x-server => i-0000016f-r4/127.0.0.1
+D, [2013-05-14T09:35:09.676866 #23499] DEBUG -- : response-header: x-nginx-host => yblhp67
+D, [2013-05-14T09:35:09.676913 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:09.676975 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO405209574%7CIMCO405208619%7CIMCO404305342%7CIMCO405147053%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:35:09 GMT; Path=/
+D, [2013-05-14T09:35:09.677028 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:09.677075 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:09.677122 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:09.677280 #23499] DEBUG -- : Read 3704 bytes (3704 total)
+D, [2013-05-14T09:35:09.677380 #23499] DEBUG -- : Read 10136 bytes (13840 total)
+D, [2013-05-14T09:35:09.692340 #23499] DEBUG -- : Read 2443 bytes (16283 total)
+D, [2013-05-14T09:35:09.692545 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:09.698380 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO405209574%7CIMCO405208619%7CIMCO404305342%7CIMCO405147053%7C**
+I, [2013-05-14T09:35:09.706300 #23499]  INFO -- : Net::HTTP::Get: /MCO-404262363-aumente-5-cm-de-estatura-con-b-tall-plantillas-_JM
+D, [2013-05-14T09:35:09.706364 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:09.706415 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:09.706467 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:09.706517 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:09.706566 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:09.706613 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405209574%7CIMCO405208619%7CIMCO404305342%7CIMCO405147053%7C**
+D, [2013-05-14T09:35:09.706662 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:09.706710 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:09.829085 #23499]  INFO -- : status: Net::HTTPMovedPermanently 1.1 301 Moved Permanently
+D, [2013-05-14T09:35:09.829171 #23499] DEBUG -- : response-header: location => http://articulo.mercadolibre.com.co/MCO-405124217-aumente-5-cm-de-estatura-con-b-tall-plantillas-_JM?redirectedFromParent=MCO404262363
+D, [2013-05-14T09:35:09.829223 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:09.829272 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:09.829319 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:09.829366 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:09.829414 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:09 GMT
+D, [2013-05-14T09:35:09.829461 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:09.829508 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.169.125:8080
+D, [2013-05-14T09:35:09.829554 #23499] DEBUG -- : response-header: x-generation-time => 41
+D, [2013-05-14T09:35:09.829601 #23499] DEBUG -- : response-header: x-server => i-0000016f-r4/127.0.0.1
+D, [2013-05-14T09:35:09.829648 #23499] DEBUG -- : response-header: x-nginx-host => yblhp67
+D, [2013-05-14T09:35:09.829694 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:09.829742 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:09.829789 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:09.829837 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:09.829942 #23499] DEBUG -- : Read 20 bytes (20 total)
+D, [2013-05-14T09:35:09.830143 #23499] DEBUG -- : gzip response
+I, [2013-05-14T09:35:09.830428 #23499]  INFO -- : follow redirect to: http://articulo.mercadolibre.com.co/MCO-405124217-aumente-5-cm-de-estatura-con-b-tall-plantillas-_JM?redirectedFromParent=MCO404262363
+I, [2013-05-14T09:35:09.835249 #23499]  INFO -- : Net::HTTP::Get: /MCO-405124217-aumente-5-cm-de-estatura-con-b-tall-plantillas-_JM?redirectedFromParent=MCO404262363
+D, [2013-05-14T09:35:09.835313 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:09.835363 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:09.835410 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:09.835475 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:09.835525 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:09.835572 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405209574%7CIMCO405208619%7CIMCO404305342%7CIMCO405147053%7C**
+D, [2013-05-14T09:35:09.835621 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:09.835669 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:10.091060 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:10.091202 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:10.091274 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:35:10.091342 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:10.091408 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:10.091473 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:10.091539 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:10 GMT
+D, [2013-05-14T09:35:10.091604 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:10.091669 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:35:10.091734 #23499] DEBUG -- : response-header: x-generation-time => 172
+D, [2013-05-14T09:35:10.091799 #23499] DEBUG -- : response-header: x-server => i-0000016f-r4/127.0.0.1
+D, [2013-05-14T09:35:10.091864 #23499] DEBUG -- : response-header: x-nginx-host => yblhp53
+D, [2013-05-14T09:35:10.091929 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:10.092017 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO405124217%7CIMCO405209574%7CIMCO405208619%7CIMCO404305342%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:35:09 GMT; Path=/
+D, [2013-05-14T09:35:10.092087 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:10.092154 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:10.092220 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:10.092374 #23499] DEBUG -- : Read 3704 bytes (3704 total)
+D, [2013-05-14T09:35:10.092505 #23499] DEBUG -- : Read 10136 bytes (13840 total)
+D, [2013-05-14T09:35:10.124393 #23499] DEBUG -- : Read 2010 bytes (15850 total)
+D, [2013-05-14T09:35:10.124672 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:10.133126 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO405124217%7CIMCO405209574%7CIMCO405208619%7CIMCO404305342%7C**
+I, [2013-05-14T09:35:10.144041 #23499]  INFO -- : Net::HTTP::Get: /MCO-404298069-biberones-ventaire-playtex-teteros-ventaire-playtex-_JM
+D, [2013-05-14T09:35:10.144132 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:10.144203 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:10.144271 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:10.144339 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:10.144406 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:10.144472 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405124217%7CIMCO405209574%7CIMCO405208619%7CIMCO404305342%7C**
+D, [2013-05-14T09:35:10.144540 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:10.144607 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:10.256618 #23499]  INFO -- : status: Net::HTTPMovedPermanently 1.1 301 Moved Permanently
+D, [2013-05-14T09:35:10.256762 #23499] DEBUG -- : response-header: location => http://articulo.mercadolibre.com.co/MCO-405121463-biberones-ventaire-playtex-teteros-ventaire-playtex-_JM?redirectedFromParent=MCO404298069
+D, [2013-05-14T09:35:10.256857 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:10.256927 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:10.257042 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:10.257112 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:10.257179 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:10 GMT
+D, [2013-05-14T09:35:10.257244 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:10.257310 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:35:10.257375 #23499] DEBUG -- : response-header: x-generation-time => 36
+D, [2013-05-14T09:35:10.257441 #23499] DEBUG -- : response-header: x-server => i-000003d0-ksm/127.0.0.1
+D, [2013-05-14T09:35:10.257507 #23499] DEBUG -- : response-header: x-nginx-host => yblhp53
+D, [2013-05-14T09:35:10.257572 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:10.257637 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:10.257702 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:10.257768 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:10.257931 #23499] DEBUG -- : Read 20 bytes (20 total)
+D, [2013-05-14T09:35:10.258228 #23499] DEBUG -- : gzip response
+I, [2013-05-14T09:35:10.258655 #23499]  INFO -- : follow redirect to: http://articulo.mercadolibre.com.co/MCO-405121463-biberones-ventaire-playtex-teteros-ventaire-playtex-_JM?redirectedFromParent=MCO404298069
+I, [2013-05-14T09:35:10.265800 #23499]  INFO -- : Net::HTTP::Get: /MCO-405121463-biberones-ventaire-playtex-teteros-ventaire-playtex-_JM?redirectedFromParent=MCO404298069
+D, [2013-05-14T09:35:10.265889 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:10.265981 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:10.266054 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:10.266121 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:10.266188 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:10.266253 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405124217%7CIMCO405209574%7CIMCO405208619%7CIMCO404305342%7C**
+D, [2013-05-14T09:35:10.266319 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:10.266384 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:10.512724 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:10.512895 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:10.513066 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:35:10.513141 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:10.513208 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:10.513274 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:10.513339 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:10 GMT
+D, [2013-05-14T09:35:10.513405 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:10.513470 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:35:10.513536 #23499] DEBUG -- : response-header: x-generation-time => 165
+D, [2013-05-14T09:35:10.513601 #23499] DEBUG -- : response-header: x-server => e-00001648/127.0.0.1
+D, [2013-05-14T09:35:10.513666 #23499] DEBUG -- : response-header: x-nginx-host => yblhp67
+D, [2013-05-14T09:35:10.513756 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:10.513826 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO405121463%7CIMCO405124217%7CIMCO405209574%7CIMCO405208619%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:35:10 GMT; Path=/
+D, [2013-05-14T09:35:10.513893 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:10.513981 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:10.514053 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:10.514223 #23499] DEBUG -- : Read 3707 bytes (3707 total)
+D, [2013-05-14T09:35:10.514354 #23499] DEBUG -- : Read 5792 bytes (9499 total)
+D, [2013-05-14T09:35:10.546399 #23499] DEBUG -- : Read 10660 bytes (20159 total)
+D, [2013-05-14T09:35:10.546693 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:10.558185 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO405121463%7CIMCO405124217%7CIMCO405209574%7CIMCO405208619%7C**
+I, [2013-05-14T09:35:10.572421 #23499]  INFO -- : Net::HTTP::Get: /MCO-404294125-mesa-en-comino-crespo-_JM
+D, [2013-05-14T09:35:10.572509 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:10.572579 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:10.572646 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:10.572731 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:10.572804 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:10.572872 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405121463%7CIMCO405124217%7CIMCO405209574%7CIMCO405208619%7C**
+D, [2013-05-14T09:35:10.572940 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:10.573030 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:10.834037 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:10.834205 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:10.834278 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:35:10.834344 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:10.834409 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:10.834473 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:10.834538 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:10 GMT
+D, [2013-05-14T09:35:10.834603 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:10.834668 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:35:10.834733 #23499] DEBUG -- : response-header: x-generation-time => 210
+D, [2013-05-14T09:35:10.834797 #23499] DEBUG -- : response-header: x-server => i-0000016b-r4/127.0.0.1
+D, [2013-05-14T09:35:10.834861 #23499] DEBUG -- : response-header: x-nginx-host => yblhp53
+D, [2013-05-14T09:35:10.834926 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:10.835012 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO404294125%7CIMCO405121463%7CIMCO405124217%7CIMCO405209574%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:35:10 GMT; Path=/
+D, [2013-05-14T09:35:10.835098 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:10.835167 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:10.835232 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:10.835422 #23499] DEBUG -- : Read 3704 bytes (3704 total)
+D, [2013-05-14T09:35:10.835633 #23499] DEBUG -- : Read 10136 bytes (13840 total)
+D, [2013-05-14T09:35:10.850501 #23499] DEBUG -- : Read 441 bytes (14281 total)
+D, [2013-05-14T09:35:10.850803 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:10.858630 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO404294125%7CIMCO405121463%7CIMCO405124217%7CIMCO405209574%7C**
+I, [2013-05-14T09:35:10.894038 #23499]  INFO -- : Net::HTTP::Get: /MCO-404050568-stud-100-retardante-sexual-_JM
+D, [2013-05-14T09:35:10.894169 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:10.894239 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:10.894308 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:10.894374 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:10.894441 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:10.894507 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO404294125%7CIMCO405121463%7CIMCO405124217%7CIMCO405209574%7C**
+D, [2013-05-14T09:35:10.894574 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:10.894641 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:10.980977 #23499]  INFO -- : status: Net::HTTPMovedPermanently 1.1 301 Moved Permanently
+D, [2013-05-14T09:35:10.981145 #23499] DEBUG -- : response-header: location => http://articulo.mercadolibre.com.co/MCO-405113339-stud-100-retardante-sexual-_JM?redirectedFromParent=MCO404050568
+D, [2013-05-14T09:35:10.981220 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:10.981289 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:10.981358 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:10.981427 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:10.981494 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:11 GMT
+D, [2013-05-14T09:35:10.981562 #23499] DEBUG -- : response-header: server => nginx/1.0.14
+D, [2013-05-14T09:35:10.981630 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:35:10.981697 #23499] DEBUG -- : response-header: x-generation-time => 48
+D, [2013-05-14T09:35:10.981765 #23499] DEBUG -- : response-header: x-server => i-0000016b-r4/127.0.0.1
+D, [2013-05-14T09:35:10.981832 #23499] DEBUG -- : response-header: x-nginx-host => zblhp22
+D, [2013-05-14T09:35:10.981898 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:10.981982 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:10.982055 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:10.982123 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:10.982290 #23499] DEBUG -- : Read 20 bytes (20 total)
+D, [2013-05-14T09:35:10.982587 #23499] DEBUG -- : gzip response
+I, [2013-05-14T09:35:10.983056 #23499]  INFO -- : follow redirect to: http://articulo.mercadolibre.com.co/MCO-405113339-stud-100-retardante-sexual-_JM?redirectedFromParent=MCO404050568
+I, [2013-05-14T09:35:10.990064 #23499]  INFO -- : Net::HTTP::Get: /MCO-405113339-stud-100-retardante-sexual-_JM?redirectedFromParent=MCO404050568
+D, [2013-05-14T09:35:10.990155 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:10.990225 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:10.990294 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:10.990361 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:10.990427 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:10.990493 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO404294125%7CIMCO405121463%7CIMCO405124217%7CIMCO405209574%7C**
+D, [2013-05-14T09:35:10.990588 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:10.990657 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:11.205588 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:11.205767 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:11.205840 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:35:11.205907 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:11.205994 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:11.206065 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:11.206132 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:11 GMT
+D, [2013-05-14T09:35:11.206198 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:11.206263 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:35:11.206329 #23499] DEBUG -- : response-header: x-generation-time => 169
+D, [2013-05-14T09:35:11.206396 #23499] DEBUG -- : response-header: x-server => e-00001648/127.0.0.1
+D, [2013-05-14T09:35:11.206465 #23499] DEBUG -- : response-header: x-nginx-host => yblhp67
+D, [2013-05-14T09:35:11.206532 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:11.206598 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO405113339%7CIMCO404294125%7CIMCO405121463%7CIMCO405124217%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:35:11 GMT; Path=/
+D, [2013-05-14T09:35:11.206665 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:11.206732 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:11.206799 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:11.206990 #23499] DEBUG -- : Read 3707 bytes (3707 total)
+D, [2013-05-14T09:35:11.207133 #23499] DEBUG -- : Read 10136 bytes (13843 total)
+D, [2013-05-14T09:35:11.221332 #23499] DEBUG -- : Read 1448 bytes (15291 total)
+D, [2013-05-14T09:35:11.221453 #23499] DEBUG -- : Read 1187 bytes (16478 total)
+D, [2013-05-14T09:35:11.221769 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:11.230170 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO405113339%7CIMCO404294125%7CIMCO405121463%7CIMCO405124217%7C**
+I, [2013-05-14T09:35:11.240529 #23499]  INFO -- : Net::HTTP::Get: /MCO-404283539-2-pijamas-gerber-para-ninas-y-ninos-envio-gratis-_JM
+D, [2013-05-14T09:35:11.240621 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:11.240672 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:11.240720 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:11.240769 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:11.240817 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:11.240865 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405113339%7CIMCO404294125%7CIMCO405121463%7CIMCO405124217%7C**
+D, [2013-05-14T09:35:11.240913 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:11.240978 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:11.360503 #23499]  INFO -- : status: Net::HTTPMovedPermanently 1.1 301 Moved Permanently
+D, [2013-05-14T09:35:11.360626 #23499] DEBUG -- : response-header: location => http://articulo.mercadolibre.com.co/MCO-405110948-2-pijamas-gerber-para-ninas-y-ninos-envio-gratis-_JM?redirectedFromParent=MCO404283539
+D, [2013-05-14T09:35:11.360705 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:11.360804 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:11.360869 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:11.360919 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:11.360992 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:11 GMT
+D, [2013-05-14T09:35:11.361046 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:11.361094 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:35:11.361141 #23499] DEBUG -- : response-header: x-generation-time => 43
+D, [2013-05-14T09:35:11.361188 #23499] DEBUG -- : response-header: x-server => i-0000016b-r4/127.0.0.1
+D, [2013-05-14T09:35:11.361235 #23499] DEBUG -- : response-header: x-nginx-host => yblhp67
+D, [2013-05-14T09:35:11.361281 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:11.361328 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:11.361374 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:11.361421 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:11.361531 #23499] DEBUG -- : Read 20 bytes (20 total)
+D, [2013-05-14T09:35:11.361722 #23499] DEBUG -- : gzip response
+I, [2013-05-14T09:35:11.362038 #23499]  INFO -- : follow redirect to: http://articulo.mercadolibre.com.co/MCO-405110948-2-pijamas-gerber-para-ninas-y-ninos-envio-gratis-_JM?redirectedFromParent=MCO404283539
+I, [2013-05-14T09:35:11.367047 #23499]  INFO -- : Net::HTTP::Get: /MCO-405110948-2-pijamas-gerber-para-ninas-y-ninos-envio-gratis-_JM?redirectedFromParent=MCO404283539
+D, [2013-05-14T09:35:11.367113 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:11.367165 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:11.367213 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:11.367262 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:11.367310 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:11.367357 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405113339%7CIMCO404294125%7CIMCO405121463%7CIMCO405124217%7C**
+D, [2013-05-14T09:35:11.367404 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:11.367451 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:11.645587 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:11.645717 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:11.645780 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:35:11.645830 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:11.645878 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:11.645925 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:11.645994 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:11 GMT
+D, [2013-05-14T09:35:11.646047 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:11.646094 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:35:11.646141 #23499] DEBUG -- : response-header: x-generation-time => 190
+D, [2013-05-14T09:35:11.646189 #23499] DEBUG -- : response-header: x-server => i-00000159-r1/127.0.0.1
+D, [2013-05-14T09:35:11.646236 #23499] DEBUG -- : response-header: x-nginx-host => yblhp53
+D, [2013-05-14T09:35:11.646283 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:11.646330 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO405110948%7CIMCO405113339%7CIMCO404294125%7CIMCO405121463%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:35:11 GMT; Path=/
+D, [2013-05-14T09:35:11.646394 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:11.646444 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:11.646495 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:11.646605 #23499] DEBUG -- : Read 3704 bytes (3704 total)
+D, [2013-05-14T09:35:11.646703 #23499] DEBUG -- : Read 10136 bytes (13840 total)
+D, [2013-05-14T09:35:11.680189 #23499] DEBUG -- : Read 4041 bytes (17881 total)
+D, [2013-05-14T09:35:11.680396 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:11.687088 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO405110948%7CIMCO405113339%7CIMCO404294125%7CIMCO405121463%7C**
+I, [2013-05-14T09:35:11.695972 #23499]  INFO -- : Net::HTTP::Get: /MCO-404279115-publicidad-volantes-tarjetas-membretes-facturas-_JM
+D, [2013-05-14T09:35:11.696037 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:11.696088 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:11.696137 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:11.696185 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:11.696233 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:11.696280 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405110948%7CIMCO405113339%7CIMCO404294125%7CIMCO405121463%7C**
+D, [2013-05-14T09:35:11.696328 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:11.696375 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:11.791349 #23499]  INFO -- : status: Net::HTTPMovedPermanently 1.1 301 Moved Permanently
+D, [2013-05-14T09:35:11.791426 #23499] DEBUG -- : response-header: location => http://articulo.mercadolibre.com.co/MCO-405107899-publicidad-volantes-tarjetas-membretes-facturas-_JM?redirectedFromParent=MCO404279115
+D, [2013-05-14T09:35:11.791478 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:11.791526 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:11.791573 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:11.791621 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:11.791668 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:11 GMT
+D, [2013-05-14T09:35:11.791715 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:11.791761 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.169.125:8080
+D, [2013-05-14T09:35:11.791808 #23499] DEBUG -- : response-header: x-generation-time => 52
+D, [2013-05-14T09:35:11.791855 #23499] DEBUG -- : response-header: x-server => i-000002eb-qsm/127.0.0.1
+D, [2013-05-14T09:35:11.791902 #23499] DEBUG -- : response-header: x-nginx-host => yblhp53
+D, [2013-05-14T09:35:11.791963 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:11.792016 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:11.792064 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:11.792110 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:11.792210 #23499] DEBUG -- : Read 20 bytes (20 total)
+D, [2013-05-14T09:35:11.792388 #23499] DEBUG -- : gzip response
+I, [2013-05-14T09:35:11.792647 #23499]  INFO -- : follow redirect to: http://articulo.mercadolibre.com.co/MCO-405107899-publicidad-volantes-tarjetas-membretes-facturas-_JM?redirectedFromParent=MCO404279115
+I, [2013-05-14T09:35:11.797334 #23499]  INFO -- : Net::HTTP::Get: /MCO-405107899-publicidad-volantes-tarjetas-membretes-facturas-_JM?redirectedFromParent=MCO404279115
+D, [2013-05-14T09:35:11.797412 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:11.797465 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:11.797513 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:11.797560 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:11.797607 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:11.797654 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405110948%7CIMCO405113339%7CIMCO404294125%7CIMCO405121463%7C**
+D, [2013-05-14T09:35:11.797701 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:11.797748 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:12.078812 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:12.079009 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:12.079089 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:35:12.079157 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:12.079222 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:12.079288 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:12.079354 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:12 GMT
+D, [2013-05-14T09:35:12.079420 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:12.079485 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.169.125:8080
+D, [2013-05-14T09:35:12.079551 #23499] DEBUG -- : response-header: x-generation-time => 194
+D, [2013-05-14T09:35:12.079616 #23499] DEBUG -- : response-header: x-server => i-000003d0-ksm/127.0.0.1
+D, [2013-05-14T09:35:12.079681 #23499] DEBUG -- : response-header: x-nginx-host => yblhp67
+D, [2013-05-14T09:35:12.079747 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:12.079812 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO405107899%7CIMCO405110948%7CIMCO405113339%7CIMCO404294125%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:35:11 GMT; Path=/
+D, [2013-05-14T09:35:12.079879 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:12.079945 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:12.080046 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:12.080215 #23499] DEBUG -- : Read 3703 bytes (3703 total)
+D, [2013-05-14T09:35:12.080373 #23499] DEBUG -- : Read 10136 bytes (13839 total)
+D, [2013-05-14T09:35:12.114672 #23499] DEBUG -- : Read 4475 bytes (18314 total)
+D, [2013-05-14T09:35:12.114988 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:12.124774 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO405107899%7CIMCO405110948%7CIMCO405113339%7CIMCO404294125%7C**
+I, [2013-05-14T09:35:12.137506 #23499]  INFO -- : Net::HTTP::Get: /MCO-404274835-panalera-fisher-price-tipo-morral-para-espalda-nino-bebe-_JM
+D, [2013-05-14T09:35:12.137601 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:12.137671 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:12.137737 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:12.137804 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:12.137870 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:12.137936 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405107899%7CIMCO405110948%7CIMCO405113339%7CIMCO404294125%7C**
+D, [2013-05-14T09:35:12.138064 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:12.138136 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:12.445568 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:12.445739 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:12.445811 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:35:12.445877 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:12.445944 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:12.446032 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:12.446098 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:12 GMT
+D, [2013-05-14T09:35:12.446163 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:12.446228 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:35:12.446307 #23499] DEBUG -- : response-header: x-generation-time => 221
+D, [2013-05-14T09:35:12.446379 #23499] DEBUG -- : response-header: x-server => i-0000016b-r4/127.0.0.1
+D, [2013-05-14T09:35:12.446461 #23499] DEBUG -- : response-header: x-nginx-host => yblhp53
+D, [2013-05-14T09:35:12.446533 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:12.446599 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO404274835%7CIMCO405107899%7CIMCO405110948%7CIMCO405113339%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:35:12 GMT; Path=/
+D, [2013-05-14T09:35:12.446667 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:12.446732 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:12.446797 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:12.447023 #23499] DEBUG -- : Read 3704 bytes (3704 total)
+D, [2013-05-14T09:35:12.447243 #23499] DEBUG -- : Read 10136 bytes (13840 total)
+D, [2013-05-14T09:35:12.478873 #23499] DEBUG -- : Read 3448 bytes (17288 total)
+D, [2013-05-14T09:35:12.479196 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:12.489816 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO404274835%7CIMCO405107899%7CIMCO405110948%7CIMCO405113339%7C**
+I, [2013-05-14T09:35:12.530001 #23499]  INFO -- : Net::HTTP::Get: /MCO-404273007-porcelanas-capodimonte-italiana-100-original-_JM
+D, [2013-05-14T09:35:12.530126 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:12.530196 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:12.530262 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:12.530329 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:12.530395 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:12.530461 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO404274835%7CIMCO405107899%7CIMCO405110948%7CIMCO405113339%7C**
+D, [2013-05-14T09:35:12.530527 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:12.530593 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:12.610408 #23499]  INFO -- : status: Net::HTTPMovedPermanently 1.1 301 Moved Permanently
+D, [2013-05-14T09:35:12.610501 #23499] DEBUG -- : response-header: location => http://articulo.mercadolibre.com.co/MCO-405181101-porcelanas-capodimonte-italiana-100-original-_JM?redirectedFromParent=MCO404273007
+D, [2013-05-14T09:35:12.610573 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:12.610640 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:12.610730 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:12.610800 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:12.610866 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:12 GMT
+D, [2013-05-14T09:35:12.610932 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:12.611026 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:35:12.611094 #23499] DEBUG -- : response-header: x-generation-time => 38
+D, [2013-05-14T09:35:12.611160 #23499] DEBUG -- : response-header: x-server => i-0000016b-r4/127.0.0.1
+D, [2013-05-14T09:35:12.611226 #23499] DEBUG -- : response-header: x-nginx-host => yblhp53
+D, [2013-05-14T09:35:12.611291 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:12.611356 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:12.611443 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:12.611514 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:12.611670 #23499] DEBUG -- : Read 20 bytes (20 total)
+D, [2013-05-14T09:35:12.611978 #23499] DEBUG -- : gzip response
+I, [2013-05-14T09:35:12.612357 #23499]  INFO -- : follow redirect to: http://articulo.mercadolibre.com.co/MCO-405181101-porcelanas-capodimonte-italiana-100-original-_JM?redirectedFromParent=MCO404273007
+I, [2013-05-14T09:35:12.619446 #23499]  INFO -- : Net::HTTP::Get: /MCO-405181101-porcelanas-capodimonte-italiana-100-original-_JM?redirectedFromParent=MCO404273007
+D, [2013-05-14T09:35:12.619536 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:12.619607 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:12.619675 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:12.619743 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:12.619808 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:12.619876 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO404274835%7CIMCO405107899%7CIMCO405110948%7CIMCO405113339%7C**
+D, [2013-05-14T09:35:12.619943 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:12.620034 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:12.881487 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:12.881688 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:12.881794 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:35:12.881891 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:12.882011 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:12.882112 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:12.882208 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:12 GMT
+D, [2013-05-14T09:35:12.882304 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:12.882399 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.169.125:8080
+D, [2013-05-14T09:35:12.882494 #23499] DEBUG -- : response-header: x-generation-time => 176
+D, [2013-05-14T09:35:12.882589 #23499] DEBUG -- : response-header: x-server => i-0000016f-r4/127.0.0.1
+D, [2013-05-14T09:35:12.882686 #23499] DEBUG -- : response-header: x-nginx-host => yblhp53
+D, [2013-05-14T09:35:12.882786 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:12.882883 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO405181101%7CIMCO404274835%7CIMCO405107899%7CIMCO405110948%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:35:12 GMT; Path=/
+D, [2013-05-14T09:35:12.883046 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:12.883147 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:12.883244 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:12.883473 #23499] DEBUG -- : Read 3704 bytes (3704 total)
+D, [2013-05-14T09:35:12.883657 #23499] DEBUG -- : Read 10136 bytes (13840 total)
+D, [2013-05-14T09:35:12.915405 #23499] DEBUG -- : Read 1946 bytes (15786 total)
+D, [2013-05-14T09:35:12.915701 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:12.923846 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO405181101%7CIMCO404274835%7CIMCO405107899%7CIMCO405110948%7C**
+I, [2013-05-14T09:35:12.934067 #23499]  INFO -- : Net::HTTP::Get: /MCO-404267333-bolsas-recolectoras-de-leche-materna-lansinoh-_JM
+D, [2013-05-14T09:35:12.934155 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:12.934206 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:12.934262 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:12.934340 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:12.934423 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:12.934506 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405181101%7CIMCO404274835%7CIMCO405107899%7CIMCO405110948%7C**
+D, [2013-05-14T09:35:12.934591 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:12.934675 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:13.018176 #23499]  INFO -- : status: Net::HTTPMovedPermanently 1.1 301 Moved Permanently
+D, [2013-05-14T09:35:13.018251 #23499] DEBUG -- : response-header: location => http://articulo.mercadolibre.com.co/MCO-405147073-bolsas-recolectoras-de-leche-materna-lansinoh-_JM?redirectedFromParent=MCO404267333
+D, [2013-05-14T09:35:13.018304 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:13.018352 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:13.018399 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:13.018446 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:13.018493 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:13 GMT
+D, [2013-05-14T09:35:13.018540 #23499] DEBUG -- : response-header: server => nginx/1.0.14
+D, [2013-05-14T09:35:13.018586 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:35:13.018633 #23499] DEBUG -- : response-header: x-generation-time => 47
+D, [2013-05-14T09:35:13.018680 #23499] DEBUG -- : response-header: x-server => i-000003d0-ksm/127.0.0.1
+D, [2013-05-14T09:35:13.018727 #23499] DEBUG -- : response-header: x-nginx-host => zblhp22
+D, [2013-05-14T09:35:13.018774 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:13.018836 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:13.018886 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:13.018934 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:13.019057 #23499] DEBUG -- : Read 20 bytes (20 total)
+D, [2013-05-14T09:35:13.019241 #23499] DEBUG -- : gzip response
+I, [2013-05-14T09:35:13.019514 #23499]  INFO -- : follow redirect to: http://articulo.mercadolibre.com.co/MCO-405147073-bolsas-recolectoras-de-leche-materna-lansinoh-_JM?redirectedFromParent=MCO404267333
+I, [2013-05-14T09:35:13.024319 #23499]  INFO -- : Net::HTTP::Get: /MCO-405147073-bolsas-recolectoras-de-leche-materna-lansinoh-_JM?redirectedFromParent=MCO404267333
+D, [2013-05-14T09:35:13.024382 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:13.024450 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:13.024500 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:13.024549 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:13.024597 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:13.024644 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405181101%7CIMCO404274835%7CIMCO405107899%7CIMCO405110948%7C**
+D, [2013-05-14T09:35:13.024692 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:13.024740 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:13.319653 #23499]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2013-05-14T09:35:13.319823 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:13.319877 #23499] DEBUG -- : response-header: content-language => es-CO
+D, [2013-05-14T09:35:13.319926 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:13.319991 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:13.320042 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:13.320090 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:13 GMT
+D, [2013-05-14T09:35:13.320137 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:13.320184 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:35:13.320232 #23499] DEBUG -- : response-header: x-generation-time => 204
+D, [2013-05-14T09:35:13.320279 #23499] DEBUG -- : response-header: x-server => i-0000016b-r4/127.0.0.1
+D, [2013-05-14T09:35:13.320325 #23499] DEBUG -- : response-header: x-nginx-host => yblhp67
+D, [2013-05-14T09:35:13.320371 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:13.320419 #23499] DEBUG -- : response-header: set-cookie => pmsctx=******IMCO405147073%7CIMCO405181101%7CIMCO404274835%7CIMCO405107899%7C**; Domain=.mercadolibre.com.co; Expires=Thu, 13-Jun-2013 12:35:13 GMT; Path=/
+D, [2013-05-14T09:35:13.320467 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:13.320515 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:13.320561 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:13.320675 #23499] DEBUG -- : Read 3704 bytes (3704 total)
+D, [2013-05-14T09:35:13.320770 #23499] DEBUG -- : Read 10136 bytes (13840 total)
+D, [2013-05-14T09:35:13.353364 #23499] DEBUG -- : Read 7240 bytes (21080 total)
+D, [2013-05-14T09:35:13.353660 #23499] DEBUG -- : Read 10995 bytes (32075 total)
+D, [2013-05-14T09:35:13.353877 #23499] DEBUG -- : gzip response
+D, [2013-05-14T09:35:13.362231 #23499] DEBUG -- : saved cookie: pmsctx=******IMCO405147073%7CIMCO405181101%7CIMCO404274835%7CIMCO405107899%7C**
+I, [2013-05-14T09:35:13.374862 #23499]  INFO -- : Net::HTTP::Get: /MCO-404265348-set-de-3-teteros-x-9oz-biberones-philips-avent-66000-_JM
+D, [2013-05-14T09:35:13.374993 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:13.375085 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:13.375157 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:13.375225 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:13.375364 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:13.375483 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405147073%7CIMCO405181101%7CIMCO404274835%7CIMCO405107899%7C**
+D, [2013-05-14T09:35:13.375622 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:13.375728 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+I, [2013-05-14T09:35:13.450136 #23499]  INFO -- : status: Net::HTTPMovedPermanently 1.1 301 Moved Permanently
+D, [2013-05-14T09:35:13.450267 #23499] DEBUG -- : response-header: location => http://articulo.mercadolibre.com.co/MCO-405101544-set-de-3-teteros-x-9oz-biberones-philips-avent-66000-_JM?redirectedFromParent=MCO404265348
+D, [2013-05-14T09:35:13.450340 #23499] DEBUG -- : response-header: x-upstream-server => Apache-Coyote/1.1
+D, [2013-05-14T09:35:13.450408 #23499] DEBUG -- : response-header: connection => close
+D, [2013-05-14T09:35:13.450474 #23499] DEBUG -- : response-header: content-type => text/html;charset=utf-8
+D, [2013-05-14T09:35:13.450541 #23499] DEBUG -- : response-header: x-nginx-pool => vip-frontend-mcocore-pool
+D, [2013-05-14T09:35:13.450607 #23499] DEBUG -- : response-header: date => Tue, 14 May 2013 12:35:13 GMT
+D, [2013-05-14T09:35:13.450673 #23499] DEBUG -- : response-header: server => nginx/1.0.4
+D, [2013-05-14T09:35:13.450738 #23499] DEBUG -- : response-header: x-nginx-upstreamhost => 172.16.148.101:8080
+D, [2013-05-14T09:35:13.450804 #23499] DEBUG -- : response-header: x-generation-time => 35
+D, [2013-05-14T09:35:13.450869 #23499] DEBUG -- : response-header: x-server => i-00000159-r1/127.0.0.1
+D, [2013-05-14T09:35:13.450934 #23499] DEBUG -- : response-header: x-nginx-host => yblhp53
+D, [2013-05-14T09:35:13.451022 #23499] DEBUG -- : response-header: content-encoding => gzip
+D, [2013-05-14T09:35:13.451091 #23499] DEBUG -- : response-header: cache-control => max-age=0
+D, [2013-05-14T09:35:13.451157 #23499] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2013-05-14T09:35:13.451222 #23499] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2013-05-14T09:35:13.451370 #23499] DEBUG -- : Read 20 bytes (20 total)
+D, [2013-05-14T09:35:13.451630 #23499] DEBUG -- : gzip response
+I, [2013-05-14T09:35:13.452044 #23499]  INFO -- : follow redirect to: http://articulo.mercadolibre.com.co/MCO-405101544-set-de-3-teteros-x-9oz-biberones-philips-avent-66000-_JM?redirectedFromParent=MCO404265348
+I, [2013-05-14T09:35:13.458872 #23499]  INFO -- : Net::HTTP::Get: /MCO-405101544-set-de-3-teteros-x-9oz-biberones-philips-avent-66000-_JM?redirectedFromParent=MCO404265348
+D, [2013-05-14T09:35:13.458981 #23499] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2013-05-14T09:35:13.459056 #23499] DEBUG -- : request-header: accept => */*
+D, [2013-05-14T09:35:13.459123 #23499] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2013-05-14T09:35:13.459192 #23499] DEBUG -- : request-header: connection => close
+D, [2013-05-14T09:35:13.459260 #23499] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2013-05-14T09:35:13.459342 #23499] DEBUG -- : request-header: cookie => pmsctx=******IMCO405147073%7CIMCO405181101%7CIMCO404274835%7CIMCO405107899%7C**
+D, [2013-05-14T09:35:13.459413 #23499] DEBUG -- : request-header: host => articulo.mercadolibre.com.co
+D, [2013-05-14T09:35:13.459481 #23499] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
